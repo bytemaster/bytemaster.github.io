@@ -1,0 +1,13 @@
+# Site settings
+title: Bytemaster's Blog
+#email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Join me as I explore free market solutions to secure life, liberty, and property
+  for all.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bytemaster.bitshares.org" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  bytemaster
+
+# Build settings
+markdown: kramdown
