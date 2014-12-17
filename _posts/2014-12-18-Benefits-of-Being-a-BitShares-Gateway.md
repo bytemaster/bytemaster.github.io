@@ -3,13 +3,11 @@ layout: post
 title:  "Benefits of Becoming a BitShares Gateway"
 categories: update
 ---
+A gateway is a trusted party that facilitates moving value into and out of the BitShares network.  To do this they issue redeemable IOUs as fungible divisible assets on the BitShares block chain.  If the issuer is trustworthy then those IOUs will trade at face value and therefore be useful in trade.  This service is effectively that of a trusted party that facilitates trade among 3rd parties who do not know each other in much the same way that a bank issues cashiers checks so that 3rd parties can accept payment without having to worry about a personal check bouncing.  Unlike a cashiers check issued by a bank, the digital IOUs issued by a gateway are far more flexible and therefore useful.
+
 The BitShares network allows anyone to issue digital assets known as User Issued Assets (UIA).  These assets can be used to track shares in a company, deposits in a bank, and reward points among other uses.   Once an asset has been issued it can be freely traded against all of the other asset types on the network including the fully collateralized market pegged assets known as BitAssets such as (BitUSD, BitBTC, etc.).  
 
-This guide will provide a brief overview of the business opportunities available for those who wish to become a BitShares Gateway.   A Gateway provides the service of bridging external assets such as fiat dollars, gold, silver, and Bitcoin into the BitShares network.   This service is critical to the success of BitShares because the vast majority of value must enter or exit the BitShares network through a Gateway or exchange. 
-
-### What is a Gateway?
-
-A gateway is a trusted party that facilitates moving value into and out of the BitShares network.  To do this they issue redeemable IOUs as fungible divisible assets on the BitShares block chain.  If the issuer is trustworthy then those IOUs will trade at face value and therefore be useful in trade.  This service is effectively that of a trusted party that facilitates trade among 3rd parties who do not know each other in much the same way that a bank issues cashiers checks so that 3rd parties can accept payment without having to worry about a personal check bouncing.  Unlike a cashiers check issued by a bank, the digital IOUs issued by a gateway are far more flexible and therefore useful.
+This guide will provide a brief overview of the business opportunities available for those who wish to become a BitShares Gateway.   A Gateway provides the service of bridging external assets such as fiat dollars, gold, silver, and bitcoin into the BitShares network.   This service is critical to the success of BitShares because the vast majority of value must enter or exit the BitShares network through a Gateway or exchange. 
 
 ### Gateway vs Exchange 
 
