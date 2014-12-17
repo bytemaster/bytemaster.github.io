@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Golden Principle"
-categories: update
+author: "Daniel Larimer"
+categories: article
 ---
 Principles are the bedrock upon which the foundation of society are built.  Without principles there is no guide or consistency nor measure of success or failure.   If we are to create a libertarian utopia it must be engineered from the ground up to comply with a set of universal principles without compromise.        
 

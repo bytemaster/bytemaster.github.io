@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Why BitShares is Public Domain"
-categories: update
+author: "Daniel Larimer"
+categories: update 
 ---
 
 When creating any kind of content whether a blog article or source code, the author has to make a choice about

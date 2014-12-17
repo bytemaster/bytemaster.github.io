@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Genesis Post"
+author: "Daniel Larimer"
 categories: update
 ---
 Every blog requires a first post, so it is only fitting for a blog that discusses 

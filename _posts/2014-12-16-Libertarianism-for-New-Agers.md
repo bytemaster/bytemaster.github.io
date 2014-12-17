@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Libertarianism for New Agers"
-categories: update
+categories: article
+author: "Daniel Larimer"
 ---
 
 I have spent innumerable hours reading articles by people with all manner of New Age beliefs and the most common theme espoused by these individuals is one of unconditional love and unity with all which comes about when one increases their ‘awareness’ or ‘consciousness‘.    Being receptive to these ideas I figured that these super aware individuals who question everything, think for themselves, are not afraid of offending people, and spend much time in meditation would naturally be libertarian or anarcho-capitalist.  Unfortunately, for all of their 'awareness' many New Agers completely miss the mark.

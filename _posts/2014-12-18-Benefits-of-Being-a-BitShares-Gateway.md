@@ -2,6 +2,7 @@
 layout: post
 title:  "Benefits of Becoming a BitShares Gateway"
 categories: update
+author: "Daniel Larimer" 
 ---
 A gateway is a trusted party that facilitates moving value into and out of the BitShares network.  To do this they issue redeemable IOUs as fungible divisible assets on the BitShares block chain.  If the issuer is trustworthy then those IOUs will trade at face value and therefore be useful in trade.  This service is effectively that of a trusted party that facilitates trade among 3rd parties who do not know each other in much the same way that a bank issues cashiers checks so that 3rd parties can accept payment without having to worry about a personal check bouncing.  Unlike a cashiers check issued by a bank, the digital IOUs issued by a gateway are far more flexible and therefore useful.
 
