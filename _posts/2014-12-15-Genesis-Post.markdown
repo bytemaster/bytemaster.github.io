@@ -1,8 +1,10 @@
 ---
 layout: post
+lang: en
 title:  "Genesis Post"
 author: "Daniel Larimer"
-categories: update
+categories: 
+    - update
 ---
 Every blog requires a first post, so it is only fitting for a blog that discusses 
 the power of blockchain technology start with a genesis post.  This blog is a new

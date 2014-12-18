@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title:  "What are BitShares Market Pegged Assets?"
 author: "Lance Kasper (aka Agent86)"
 categories: article
