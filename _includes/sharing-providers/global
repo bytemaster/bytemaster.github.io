@@ -10,7 +10,7 @@
 <li class="tw" style="display: inline; float: left;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="{{ site.sharing.twitter.via }}" data-related="{{ site.author.twitter }}" data-count="{{ site.JB.sharing.twitter.count }}" data-size="{{ site.JB.sharing.twitter.size }}">Tweet</a>
 
 <!-- Reddit -->
-<li style="display: inline; float: left; width: 100px "><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
+<li style="display: inline; float: left; width: 175px "><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
 </ul>
 
 <!-- Google+ -->
