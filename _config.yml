@@ -5,9 +5,28 @@ description: > # this means to ignore newlines until "baseurl:"
   Join me as I explore free market solutions to secure life, liberty, and property
   for all.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bytemaster.bitshares.org" # the base hostname & protocol for your site
+url: "http://bitshares.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  bytemaster
 
 # Build settings
 markdown: kramdown
+
+sharing :
+   provider : all
+   twitter :
+      size :
+      via :
+      count :
+   facebook :
+      appid : 123
+      layout : button_count
+      font :
+      faces : false
+      width : 90
+   googleplus :
+      size : medium
+      width :
+      annotation : bubble
+   linkedin :
+      counter : right      

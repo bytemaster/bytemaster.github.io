@@ -1,0 +1,18 @@
+{% if site.sharing.provider %}
+
+   {% case site.sharing.provider %}
+      {% when 'like' %}
+         {% include sharing-providers/facebook %}
+      {% when 'tweet' %}
+         {% include sharing-providers/twitter %}
+      {% when 'plusone' %}
+         {% include sharing-providers/googleplus %}
+      {% when 'linkedin' %}
+         {% include sharing-providers/linkedin %}
+      {% when 'hn' %}
+         {% include sharing-providers/hn %}
+      {% when 'all' %}
+         {% include sharing-providers/global %}
+   {% endcase %}
+
+{% endif %}
