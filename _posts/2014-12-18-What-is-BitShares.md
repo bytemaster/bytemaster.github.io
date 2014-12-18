@@ -6,7 +6,7 @@ author: "Daniel Larimer"
 categories: update
 ---
 
-Answering the question "What is BitShares?" has been one of the most difficult challenges I have faced.  BitShares is so many things to different people and there are a thousand different ways of understanding what BitShares is.  This post will tell you what BitShares is to me, its founder.  Before getting into the long-answer to this question, let me give you the executive summary.   BitShares is one of the most important tools that any community can use to secure their freedom.  BitShares is an idea whose time has come. After reading this post I bet you will agree.
+Answering the question "What is BitShares?" has been one of the most difficult challenges I have faced.  BitShares is so many things to different people and there are a thousand different ways of understanding what BitShares is.  This post will tell you what BitShares is to me, its founder.  Before getting into the long-answer to this question, let me give you the executive summary.   BitShares is one of the most important tools that any community can use to secure their freedom; an idea whose time has come. After reading this post I bet you will agree.
 
   >  All the forces in the world are not so powerful as an idea whose time has come.  - Victor Hugo
 
