@@ -40,9 +40,10 @@ I have previously said that the best money is like a Flux Capacitor.  It can mov
 
 Bank deposits are very efficient at moving value through space via wire transfers, but they are still expensive and relatively slow (days). Bank deposits can also lose all of their value far more often than paper dollars because banks regularly go bankrupt. 
 
+With BitShares and BitGold you get many properties of gold such as its price stability and the fact that it is free of counter party risk as well as the benefits of bank deposits in that you can transfer millions of dollars worth of gold in seconds.  
 
-**BitShares is a Community**.
+**BitShares is a Community**.  A piece of software powering a distributed network is worthless without people coming together to give value to the BTS on the ledger entries.  Each and every person that joins the BitShares community adds value to the ledger and gains value from the fellow community members.   All things start small with just a few people.  Over the past year and a half BitShares has grown from an idea to a global community with thousands of people.  
 
-**BitShares is a Country**.
+**BitShares is a Country**.  Countries are what communities become when they become large enough and powerful enough.  Countries are soverign and issue their own currency.  Countries are run by elected governements like delegates.  
 
 **BitShares is an Idea** whose time has come. 
