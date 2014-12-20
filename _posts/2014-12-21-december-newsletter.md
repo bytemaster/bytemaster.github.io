@@ -15,9 +15,9 @@ not the other way around.
 
 It will still have human owners; it will still serve human customers; and it will still hire human contractors, but it will be managed by software “bots” that cannot be corrupted, seduced or coerced by humans. Because it can be trusted in ways that manned companies cannot, it will be able to serve its owners and customers more reliably than any manned company in human history. 
 
-Those of you who were with us in the beginning will remember that critical stage in the life cycle of a DAC when it becomes untethered. Emancipated. Sovereign.  Barely 15 months ago, when we laid out our grand vision in Bitcoin and the Three Laws of Robotics, http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/, we put it this way:
+Those of you who were with us in the beginning will remember that critical stage in the life cycle of a DAC when it becomes untethered. Emancipated. Sovereign.  Barely 15 months ago, when we laid out our grand vision in ["Bitcoin and the Three Laws of Robotics"](http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/) we put it this way:
 
-“Ultimately, to achieve complete incorruptibility, developers must be willing to let go of their own control.  If there remains any centralized human control anywhere, it will eventually be exploited to the detriment of the DAC’s stakeholders.  DACs need to be free to be trusted.”
+ > “Ultimately, to achieve complete incorruptibility, developers must be willing to let go of their own control.  If there remains any centralized human control anywhere, it will eventually be exploited to the detriment of the DAC’s stakeholders.  DACs need to be free to be trusted.”
 
 So we are setting BitShares free - releasing it into the wild. Invictus Innovations Incorporated (I3) will cease operations in the crypto currency space to ensure that there remains no central control over BitShares of any kind. I3 will continue to exist as a legal entity for the sole purpose of handling any future regulatory inquiry, tax audits, etc. associated with its past activities in helping to bootstrap this industry.
 
