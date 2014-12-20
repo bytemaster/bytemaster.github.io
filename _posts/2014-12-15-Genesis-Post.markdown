@@ -12,6 +12,8 @@ beginning in my effort to communicate my vision for a new world.  If I am going
 to change the world then it would be helpful for everyone who wants to help if
 they knew where I was going.   
 
+<!--more-->
+
 My mission in life is to find free market solutions to secure life, liberty, and
 property for all against all.  This is a daunting mission and one that few people
 have dared travel down, but one that I am compelled to tackle.  If I am successful

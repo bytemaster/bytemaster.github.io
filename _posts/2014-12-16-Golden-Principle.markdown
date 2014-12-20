@@ -6,13 +6,15 @@ categories: article
 ---
 Principles are the bedrock upon which the foundation of society are built.  Without principles there is no guide or consistency nor measure of success or failure.   If we are to create a libertarian utopia it must be engineered from the ground up to comply with a set of universal principles without compromise.        
 
+<!--more-->
+
 Libertarians generally hold one principle as the cornerstone of their philosophy, the Non-Aggression Principle (NAP).   Stated simply, one should not initiate or threaten violence or fraud against another or their property.  From this principle the logical conclusion is that governments as we know them cannot exist without violating this principle because they depend upon the threat of violence to compel the payment of taxes which are required to fund their very existence.  
 
 Many people go to great lengths to talk about how society could be organized in the absence of government.  Everything from roads, to schools, pollution, murder and child abuse has been discussed in detail for a theoretical society where everyone believed in the non-aggression principle.
 
 Perhaps one of the most challenging questions facing libertarianism is how do we cross the chasm from a world full of statists willing to violate the non-aggression principle to a world where everyone is a libertarian.   This blog will attempt to take on that challenge in a very practical guide that if adopted by libertarians could see a Libertarian Utopia in our life time.
 
-### Beyond the Non Aggression Principle 
+## Beyond the Non Aggression Principle 
 
 I have been a student of libertarianism for a long time and have come to the conclusion that the Non-Aggression Principle is too ambiguous to serve as a proper foundation.   It is insufficient because it fails to address what should happen after an aggression has been made.  In fact most common phrasings of the principle specially use the word initiate to qualify the disallowed aggression.  This implies that aggression may be permissible in retaliation.  There are several views here, but it usually boils down to the agreement that force or fraud may be used against the aggressor in equal proportion to that used by the aggressor.  This assumes that aggression can be objectively quantified and compared, which as we will see later, it cannot.   
 
@@ -20,7 +22,7 @@ With this mindset a libertarian would conclude that it is morally justifiable to
 
 If we are to engineer a libertarian utopia it must be done in such a way that law, order, and justice can be created and maintained without depending upon violence.   It must be done in such a way that it can evolve and grow to replace existing governments without resorting to violence.  In other words we need a new principle that goes beyond the Non-Aggression Principle.  
 
-### The Golden Principle 
+## The Golden Principle 
 
 The principle upon which all the ideas in this blog are based is what I call The Golden Principle:
 
