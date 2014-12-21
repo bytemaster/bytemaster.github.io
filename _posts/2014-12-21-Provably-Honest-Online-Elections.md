@@ -69,7 +69,7 @@ So we can see that for all practical purposes hard evidence of your vote is not 
 
 I have already shown that vote buying cannot be stopped, but perhaps trying to prevent it is another fallacy.  What is wrong with selling your vote anyway?   Perhaps there is something wrong with trying to stop someone from selling their vote!   
 
-Vote buying would greatly increase voter participation and remove economic barriers to becoming politically informed, making elections fairer.  Voters would be directly incentivised to find out about the issues so they can decide whether to sell their vote or not, increasing participation.  They would also be able to collect a reward for voting the same way they would otherwise have done anyway.  
+Vote buying would greatly increase voter participation and remove economic barriers to becoming politically informed, making elections fairer.  Voters would be directly incentivised to find out about the issues so they can decide whether to sell their vote or not, increasing participation.  They would also be able to collect a reward for voting the same way they would otherwise have done anyway, rewarding participation.
 
 Those who spend the time to get informed are currently punished by the votes of the less informed who spent less time understanding the issues.  The less informed voters are also more easily manipulated by propaganda.  If someone understands less information about a topic it is easier to deceive them.  The less informed voters are often stuck in that position due to economic reasons.  With vote buying the less informed have a ladder they are paid to climb, allowing them spend the time to become informed by being paid to make the decision, bringing them into the political process.
 
