@@ -38,7 +38,7 @@ Anonymity differs from privacy by making it impossible for a voter to prove whom
 
 ### Requirement #1 - Ability to prove the votes were fairly counted
 
-Without this there is no real election.  The other requirements are worthless without this.  We can achieve provbly fair counting of votes by sacrificing a much less important requirement, requirement #3.  Requirement #3 should not actually be an election requirement at all and  removing it brings new advantages.  Remember with requirement #2 means your voting details are still private unless you chose to reveal them or are forced to.
+Without this there is no real election.  The other requirements are worthless without this.  We can achieve provbly fair counting of votes by sacrificing a much less important requirement, requirement #3.  Requirement #3 should not actually be an election requirement at all and  removing it brings new advantages.  Remember with requirement #2 voting details are still private unless you chose to reveal them or are forced to.
 
 
 After removing equirement #3, then, and only then, are provably honest elections possible.  It actually becomes trivial and can be implemented with both paper and electronic systems.  Every voter would know their secret ballot number and every voter would be free to examine all ballots.    A voter would know their vote was included because they could uniquely identify their ballot and verify the vote was cast.  
@@ -69,13 +69,18 @@ So we can see that for all practical purposes hard evidence of your vote is not 
 
 I have already shown that vote buying cannot be stopped, but perhaps trying to prevent it is another fallacy.  What is wrong with selling your vote anyway?   Perhaps there is something wrong with trying to stop someone from selling their vote!   
 
-People generally accept that no one may judge your reasons for voting as you do.  It you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
+Vote buying would greatly increase voter participation and remove economic barriers to becoming politically informed, making elections fairer.  Voters would be directly incentivised to find out about the issues so they can decide whether to sell their vote or not, increasing participation.  They would also be able to collect a reward for voting the same way they would otherwise have done anyway.  
+
+Those who spend the time to get informed are currently punished by the votes of the less informed who spent less time understanding the issues.  The less informed voters are also more easily manipulated by propaganda.  If someone understands less information about a topic it is easier to deceive them.  The less informed voters are often stuck in that position due to economic reasons.  With vote buying the less informed have a ladder they are paid to climb, allowing them spend the time to become informed by being paid to make the decision, bringing them into the political process.
+
+Maintaining and developing political awareness need not be an exclusory expense.  Everyone can afford to spend the time to learn about the issues if there is a reward for casting a vote.
+
+In addition, people generally accept that no one may judge your reasons for voting as you do.  It you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
 
 In reality almost every election is about buying votes.  Politicians make promises to redistribute tax payer money in order to win votes.   Most people who vote for a politician believe the promise and thus a politician buys a vote with an IOU that is easily defaulted on without consequence even though the vote is irreversible.   A politician that pays you up front is at least honest and you are certain to get some benefit.   
 
-This brings up another reality about vote buying.  Whether you pay before the vote or after the vote, one party must trust the other.   If the parties attempt to draft a contract then it would be an unenforceable contract under the government courts.    Without enforceability of the contract, vote buying falls back to the same trust-based system we have today.  The parties would have to resort to crypto-currency smart contracts to have any kind of assurance.
+A vote can be viewed as a property right.  It is yours to control and cast as you see fit.  Vote buying therefore strengthes democracy while strenghtening personal freedoms at the same time.
 
-A vote can be viewed as a property right.  It is yours to control and cast as you see fit.  If you attempt to restrict others from free exercise of their right then you become an aggressor.  
 
 ### Direct Vote Buying is Uneconomical 
 
