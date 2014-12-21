@@ -1,8 +1,11 @@
 <div class="pagination">
+    <center>
 	{% if paginator.next_page %}
 		<a href="{{ paginator.next_page_path }}" class="smallbutton lightgray left"><i class="fa fa-chevron-left"></i><span>Older Posts</span></a>
 	{% endif %}
+		<a href="/all" class="smallbutton lightgray"><span>All Posts</span></a>
 	{% if paginator.previous_page %}
 		<a href="{{ paginator.previous_page_path }}" class="smallbutton lightgray right"><span>Newer Posts</span><i class="fa fa-chevron-right"></i></a>
 	{% endif %}
+    </center>
 </div>

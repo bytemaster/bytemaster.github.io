@@ -5,10 +5,13 @@
 <nav class="wrapper {% if page.featured == true %} featured {% endif %} {% if site.theme_always_show_nav == true %} alwaysshow {% endif %} alwaysshow">
     <a href="#" onclick="return false;"><i class="fa fa-navicon fa-lg"></i></a>
     <ul>       
+         <li><a target="_blank" href="/" >Home</a></li>
+         <!--
         {% for page in site.pages %}
             {% if page.title %}<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endif %}
         {% endfor %}
-         <li><a target="_blank" href="http://www.github.com/bytemaster" >Github</a></li>
+        -->
+         <li><a target="_blank" href="/all" >About</a></li>
     </ul>
     
 </nav>
