@@ -36,7 +36,7 @@ Anonymity differs from privacy by making it impossible for a voter to prove whom
 
 ### The missing requirement
 
-### Requirement #1 - Ability to prove the votes were fairly counted
+### Requirement #1 - Ability to Prove the Votes were Fairly Counted
 
 Without this there is no real election.  The other requirements are worthless without this.  We can achieve provbly fair counting of votes by sacrificing a much less important requirement, requirement #3.  Requirement #3 should not actually be an election requirement at all and  removing it brings new advantages.  Remember with requirement #2 voting details are still private unless you chose to reveal them or are forced to.
 
