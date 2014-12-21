@@ -14,7 +14,7 @@ Since then legal worry worts have relabeled the concept of a DAC into DAOs (Orga
 
 ## Overview of Modern Banking 
 
-All banks these days operate on what I like to call a *fictional* reserve basis.  When you approach the bank for a loan to buy a house, the bank creates new dollars from thin air backed by your collateralized promise to pay back the loan.  In this case, your house is the collateral and the bank may call your loan and foreclose if you stop making the required payments or if the value of the house falls too much.   When you pay off your loan the dollars are destroyed and the bank keeps the interest payments and the lean is removed from your house.   The key thing to remember here is that these dollars are nothing more than an IOU from the bank.   People trust the value of the IOUs because they trust the bank to honor their promise to pay a dollars worth of value.
+All banks these days operate on what I like to call a *fictional* reserve basis.  When you approach the bank for a loan to buy a house, the bank creates new dollars from thin air backed by your collateralized promise to pay back the loan.  In this case, your house is the collateral and the bank may call your loan and foreclose if you stop making the required payments or if the value of the house falls too much.   When you pay off your loan the dollars are destroyed and the bank keeps the interest payments and the lien is removed from your house.   The key thing to remember here is that these dollars are nothing more than an IOU from the bank.   People trust the value of the IOUs because they trust the bank to honor their promise to pay a dollars worth of value.
  
 <center>
 <img src="/media/GoldCoinDollar.png"/>
