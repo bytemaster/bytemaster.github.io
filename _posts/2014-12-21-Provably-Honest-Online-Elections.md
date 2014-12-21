@@ -138,11 +138,6 @@ No voting system is perfect and when people are involved there is always room fo
 >  It is not who votes that counts, it is who counts the vote.   
 
 
-
-
- 
-
-
-
-
+Related Articles:
+[Aggregate Public Opinion Matters]( {% post_url 2014-12-20-Aggregate-Public-Opinion-Matters %} )
 
