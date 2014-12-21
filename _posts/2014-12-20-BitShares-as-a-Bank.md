@@ -7,7 +7,7 @@ categories:
     - article
 ---
 
-My father and I were discussing BitShares one evening (fall 2013) and I was trying to describe how BitShares is different from an altcoin.   I used an analogy that described BitShares as a crypto-equity in a decentralized bank and exchange called BitShares.  The shareholders of the bank are those who own bitshares (BTS).   I then went on to explain how this decentralized bank can create dollars just like their centralized counterparts.  I posted a variation of this article on Lets Talk Bitcoin and it launched the concept of a DAC (**D**ecentralized **A**utonomous **C**orporation ).   
+My father and I were discussing BitShares one evening (fall 2013) and I was trying to describe how BitShares is different from an altcoin.   I used an analogy that described BitShares as a crypto-equity in a decentralized bank and exchange called BitShares.  The shareholders of the bank are those who own bitshares (BTS).   I then went on to explain how this decentralized bank can create dollars just like their centralized counterparts.  I posted a variation of this article on Lets Talk Bitcoin and it launched the concept of a DAC (**D**ecentralized **A**utonomous **C**orporation).   
 
 Since then legal worry worts have relabeled the concept of a DAC into DAOs (Organizations)  or simply DAs (Distributed Applications).  I have personal chosen to use many different variations on the DAC acronym to help communicate the many different perspectives that are possible and bring added clarity and precision to the term.   I now use Distributed Automated **C**ompany, **C**ommunity, **C**oop, **C**ountry, or **C**urrency depending on the situation.
 
