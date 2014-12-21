@@ -5,7 +5,7 @@ baseurl: 					""
 #url: 						""
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bold"
-paginate: 					8
+paginate: 				10	
 
 
 # Author Settings
@@ -34,7 +34,7 @@ theme_analytics_id: 		"UA-28282324-1"
 theme_analytics_domain: 	"ecko.me"
 theme_reading_time: 		true
 theme_autoload_comments: 	false
-theme_always_show_nav: 		false
+theme_always_show_nav: 		true
 
 
 # SASS Settings
