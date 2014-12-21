@@ -18,7 +18,7 @@ Whether you realize it or not we all contribute to the enslavement of our fellow
 
 Unfortunately we all know how hard it is to live without fiat money.   For decades liberty activists have been promoting gold and silver but it was never able to gain traction.  We live in a digital world with great wealth which makes the relative value of an oz of gold or silver too large for many purchases.  Imagine having to round every purchase to 1/10th an oz of silver ($1.28 or more).  Imagine having to purchase everything with physical silver?   It just doesn’t work in the Internet age without trusting a third party bank.  Unfortunately the market has discovered that gold and silver banks may start out as 100% reserve, but reserves gradually fall as governments permit fractional reserve banking.   Today efforts to reset the system such as e-gold and now [BitReserve](https://bitreserve.org/) find their 100% reserves are subject to confiscation.   
 
-Life has taught me that you cannot simply get rid of something in your life, you need to replace it with something else.  Fortunately since the invention of [Bitcoin](http://bitcoin.org) and now [BitShares](http://bitshares.org) and its [BitAssets](/article/2014/12/18/What-are-BitShares-Market-Pegged-Assets.html) we have an alternative.  Now all we need is for people to use it.
+Life has taught me that you cannot simply get rid of something in your life, you need to replace it with something else.  Fortunately since the invention of [Bitcoin](http://bitcoin.org) and now [BitShares](http://bitshares.org) and its [BitAssets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) we have an alternative.  Now all we need is for people to use it.
 
 ## Give people the Option to be Free
 
@@ -49,7 +49,7 @@ With BitShares we are starting something much bigger than providing a new money 
 
 ## The “Easy” Way
 
-You could always wait for others to move first.  Wait to be given your freedom by others before you consider returning the favor.  The trouble with this path is that from a [subjective view of reality](/article/2007/09/22/Subjective-Reality-Simplified.html), the outside world is merely a reflection of your inner self.   If you would like to see a change in the outside world then you have to start acting in ways that support your desire or it may never happen.   It is a catch-22. If you attempt to wait for others to move first, then chances are it will never happen.  So if you want freedom you must take action to give others freedom today.
+You could always wait for others to move first.  Wait to be given your freedom by others before you consider returning the favor.  The trouble with this path is that from a [subjective view of reality]({% post_url 2007-09-22-Subjective-Reality-Simplified %}), the outside world is merely a reflection of your inner self.   If you would like to see a change in the outside world then you have to start acting in ways that support your desire or it may never happen.   It is a catch-22. If you attempt to wait for others to move first, then chances are it will never happen.  So if you want freedom you must take action to give others freedom today.
 
 ## Buying BitShares (BTS) supports Freedom 
 
@@ -61,7 +61,7 @@ If you give $5 to a poor man you may feed him for a day, but if you spend $5 buy
 
 ## Buying BitUSD supports Freedom 
 
-Perhaps you are not one willing to take a huge risk on our movement, but you really want to help support the cause.  Buying BitUSD will allow you to earn a steady return on your $5 without taking much risk at all.  In this case you are voting with your economic power to support our cause.  You can [read more about how BitUSD (or BitGold) is a relatively low risk](/article/2014/12/18/What-are-BitShares-Market-Pegged-Assets.html) way to support our community and help secure your own freedom.
+Perhaps you are not one willing to take a huge risk on our movement, but you really want to help support the cause.  Buying BitUSD will allow you to earn a steady return on your $5 without taking much risk at all.  In this case you are voting with your economic power to support our cause.  You can [read more about how BitUSD (or BitGold) is a relatively low risk]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) way to support our community and help secure your own freedom.
 
 There are no short cuts in life.  It is up to each one of us to stop blaming others for our lack of freedom and start taking personal responsibility for the tyranny we see in the world.  For my part I hope the use this blog to show the way with real, practical, and profitable alternatives that can be implemented today.  Will you join us?  What have you got to lose?  
 

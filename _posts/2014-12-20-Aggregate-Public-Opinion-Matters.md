@@ -7,7 +7,7 @@ categories:
     - article
 ---
 
-Whether we like it or not the mob ultimately runs society.  Individual property rights mean nothing in a riot.   If public opinion turns against something nothing can resist it for long, not even the most oppressive governments.  A libertarian utopia is the result of changing public opinion and maintaining public support for universal application of the [Golden Principle](/article/2014/12/16/Golden-Principle.html) without exception. If you haven't read my post on the Golden Principle I recommend you check it out.     
+Whether we like it or not the mob ultimately runs society.  Individual property rights mean nothing in a riot.   If public opinion turns against something nothing can resist it for long, not even the most oppressive governments.  A libertarian utopia is the result of changing public opinion and maintaining public support for universal application of the [Golden Principle]({% post_url 2014-12-16-Golden-Principle %}) without exception. If you haven't read my post on the Golden Principle I recommend you check it out.     
 
 Unfortunately most people do not form their opinion based upon facts and reason, but instead defer to the opinions of others.  Each and every day people make decisions based upon what they think other people think.   Style, language, morals, religion, politics, and just about everything are heavily influenced by other peoples opinions.   When in doubt most people defer to public opinion over their own opinion and this is the heart of democracy.
 

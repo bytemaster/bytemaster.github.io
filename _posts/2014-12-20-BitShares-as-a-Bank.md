@@ -17,7 +17,7 @@ Since then legal worry worts have relabeled the concept of a DAC into DAOs (Orga
 All banks these days operate on what I like to call a *fictional* reserve basis.  When you approach the bank for a loan to buy a house, the bank creates new dollars from thin air backed by your collateralized promise to pay back the loan.  In this case, your house is the collateral and the bank may call your loan and foreclose if you stop making the required payments or if the value of the house falls too much.   When you pay off your loan the dollars are destroyed and the bank keeps the interest payments and the lean is removed from your house.   The key thing to remember here is that these dollars are nothing more than an IOU from the bank.   People trust the value of the IOUs because they trust the bank to honor their promise to pay a dollars worth of value.
  
 <center>
-<img src="/img/GoldCoinDollar.png"/>
+<img src="/media/GoldCoinDollar.png"/>
 </center>
 
 Lets step back one step further and consider that a dollar use to be defined as  412.5 grains of 99.9% pure silver.   When you received a bank note it was a promise to pay  one dollar worth of gold and the law defined the fixed ratio of gold to silver required to give the bank note a tie to the real world.
@@ -44,4 +44,4 @@ It is through this explanation of BitShares that the concept of a Decentralized 
 
 When this article was originally written (Fall 2013) the concept of a DAC was very young.  Since that time the analogy has been expanded upon and the metaphor has lead to major advancements in the crypto currency space including: Delegated Proof of Stake which eliminated mining and enabled dilution as a means to permanently fund the growth and development of decentralized businesses.  
 
-Max Wright in is book [BitShares 101](/article/2014/12/20/BitShares-101.html) goes into much greater detail in describing DACs as it relates to what BitShares is today. In his book he describes how Bitcoin is a DAC and provides great detail about the power of Delegated Proof of Stake (DPOS).  I highly recommend you check it out.   
+Max Wright in is book [BitShares 101]({% post_url 2014-12-20-BitShares-101 %}) goes into much greater detail in describing DACs as it relates to what BitShares is today. In his book he describes how Bitcoin is a DAC and provides great detail about the power of Delegated Proof of Stake (DPOS).  I highly recommend you check it out.   

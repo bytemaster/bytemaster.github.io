@@ -15,11 +15,11 @@ layout: default
 		<article class="post {% if post.featured == true %} featured {% endif %}">
 			<header>
 				<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-				<h2>
+	<!--			<h2>
 					{% for category in post.categories %}
 					{{ category }} 
-					{% endfor %}
-				</h2>
+					{% endfor %} 
+				</h2>-->
 				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 				<span>
 					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
@@ -28,7 +28,7 @@ layout: default
 					{% if post.content contains '<!--more-->' %}
 						{{ post.content | split:'<!--more-->' | first }}
 					{% else %}
-						{{ post.content }}   
+						{{ post.excerpt }}   
 					{% endif %}
 				</div>
 			</header>

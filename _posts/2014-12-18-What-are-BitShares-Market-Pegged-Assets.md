@@ -5,7 +5,7 @@ title:  "What are BitShares Market Pegged Assets?"
 
 author_image: "/assets/img/authorimage1.jpg"
 author: "Lance Kasper (aka Agent86)"
-author_bio: "I'm Lance Kasper - i'm a blub blub"
+author_bio: "I'm Lance Kasper "
 
 
 featured: true
@@ -47,7 +47,7 @@ Market pegged assets maintain their price parity due to being backed by collater
 
 #### Counterparty risk:
 
-Unlike many attempts to create a digital asset that tracks the dollar, market pegged asset are not an "I owe you" issued by any entity.  For this reason, it does not rely on a specific counterparty to honor its value.  Although manipulation risk occurs in any market, it is minimized by the open source and auditable nature of the BitShares system and carefully considered market rules.  BitAssets stored on an exchange become IOUs and are subject to counter party risk just like storing bitcoin or bitshares on an exchange.  This risk is not a property of the BitAssets themselves.  We recomend that users never deposit BitAssets on an exchange and instead only use [gateways](/update/2014/12/18/Benefits-of-Being-a-BitShares-Gateway.html) that issue their IOUs onto the BitShares network.  This way you can trade your BitUSD against gateway IOUs without exposing your BitUSD to counter party risk while in the order book.
+Unlike many attempts to create a digital asset that tracks the dollar, market pegged asset are not an "I owe you" issued by any entity.  For this reason, it does not rely on a specific counterparty to honor its value.  Although manipulation risk occurs in any market, it is minimized by the open source and auditable nature of the BitShares system and carefully considered market rules.  BitAssets stored on an exchange become IOUs and are subject to counter party risk just like storing bitcoin or bitshares on an exchange.  This risk is not a property of the BitAssets themselves.  We recomend that users never deposit BitAssets on an exchange and instead only use [gateways]({% post_url 2014-12-18-Benefits-of-Being-a-BitShares-Gateway %}) that issue their IOUs onto the BitShares network.  This way you can trade your BitUSD against gateway IOUs without exposing your BitUSD to counter party risk while in the order book.
 
 #### Systemic risk:
 
