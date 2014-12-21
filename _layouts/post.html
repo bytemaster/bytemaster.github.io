@@ -58,11 +58,12 @@ layout: default
 <div id="cover" class="cover {% if page.featured == true %} featured {% endif %}">
     <div class="background" style="background-image:url('{{ page.banner_image }}');"></div>
     <header class="wrapper">
-        <h2>
+ <!--       <h2>
         	{% for category in page.categories %}
 				{{ category }} 
           	{% endfor %}
         </h2>
+-->
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
         <span>
             Posted by <strong>{% if page.author %}{{ page.author }}{% else %}{{ site.author_name }}{% endif %}</strong>
@@ -77,11 +78,12 @@ layout: default
         
         <header>
             <div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-            <h2>
+<!--            <h2>
             	{% for category in page.categories %}
 					{{ category }} 
           		{% endfor %}
             </h2>
+-->
             <h1 id="posttitle"><a href="#">{{ page.title }}</a></h1>
             <span>
                 Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.author_name }}{% endif %}
