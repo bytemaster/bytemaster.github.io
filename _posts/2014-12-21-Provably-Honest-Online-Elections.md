@@ -34,7 +34,7 @@ Privacy means your identity and whom you voted for is hidden from everyone, incl
 
 Anonymity differs from privacy by making it impossible for a voter to prove whom they voted for.  It enforces privacy rather than making it a choice.  Anonymity in give thelections is designed to protect against violent coertion of voters and vote buying.  If voters cannot prove to the coercer or buyer whom they voted for, it makes it harder to attack the system in those ways.  But this requirement comes with a problem.  If you cannot prove to someone else that your vote was counted a certain way, how are you going to prove it to yourself?
 
-The missing requirement
+### The missing requirement
 
 ### Requirement #1 - Ability to prove the votes were fairly counted
 
