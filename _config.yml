@@ -1,32 +1,50 @@
-# Site settings
-title: Bytemaster's Blog
-#email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Join me as I explore free market solutions to secure life, liberty, and property
-  for all.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bitshares.org" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  bytemaster
+# Site Settings
+title: 						"Bytemaster's Blog"
+description: 				"Join me as I explore free market solutions to secure life, liberty, and property for all."
+baseurl: 					""
+#url: 						""
+logourl: 					"/assets/img/bloglogo.jpg"		
+fa-logo: 					"fa-bold"
+paginate: 					8
 
-# Build settings
-markdown: kramdown
 
-sharing :
-   provider : all
-   twitter :
-      size :
-      via :
-      count :
-   facebook :
-      appid : 123
-      layout : button_count
-      font :
-      faces : false
-      width : 90
-   googleplus :
-      size : medium
-      width :
-      annotation : bubble
-   linkedin :
-      counter : right      
+# Author Settings
+author_name: 				"Daniel Larimer"
+#author_url: 				"http://bitshares.org"
+author_bio: 				"My name is Daniel Larimer and I am the founder of BitShares."
+author_image: 			"/assets/img/authorimage.jpg"
+
+
+# Social Settings
+#twitter_url: 				"http://twitter.com"
+#facebook_url: 				"http://facebook.com"
+github_url:  				"http://github.com/bytemaster"
+#youtube_url:  				"http://youtube.com"
+#dribbble_url:  				"http://dribbble.com"
+#googleplus_url: 			"http://google.com/plus"
+#instagram_url:  			"http://instagram.com"
+#pinterest_url:  			"http://pinterest.com"
+#linkedin_url:  				"http://linkedin.com"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"bytemaster"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-28282324-1"
+theme_analytics_domain: 	"ecko.me"
+theme_reading_time: 		true
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
+

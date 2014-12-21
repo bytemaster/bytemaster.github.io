@@ -5,12 +5,13 @@ categories: update
 author: "Daniel Larimer" 
 ---
 A gateway is a trusted party that facilitates moving value into and out of the BitShares network.  To do this they issue redeemable IOUs as fungible divisible assets on the BitShares block chain.  If the issuer is trustworthy then those IOUs will trade at face value and therefore be useful in trade.  This service is effectively that of a trusted party that facilitates trade among 3rd parties who do not know each other in much the same way that a bank issues cashiers checks so that 3rd parties can accept payment without having to worry about a personal check bouncing.  Unlike a cashiers check issued by a bank, the digital IOUs issued by a gateway are far more flexible and therefore useful.
+<!--more-->
 
 The BitShares network allows anyone to issue digital assets known as User Issued Assets (UIA).  These assets can be used to track shares in a company, deposits in a bank, and reward points among other uses.   Once an asset has been issued it can be freely traded against all of the other asset types on the network including the fully collateralized market pegged assets known as BitAssets such as (BitUSD, BitBTC, etc.).  
 
 This guide will provide a brief overview of the business opportunities available for those who wish to become a BitShares Gateway.   A Gateway provides the service of bridging external assets such as fiat dollars, gold, silver, and bitcoin into the BitShares network.   This service is critical to the success of BitShares because the vast majority of value must enter or exit the BitShares network through a Gateway or exchange. 
 
-### Gateway vs Exchange 
+## Gateway vs Exchange 
 
 Most people who have been around the crypto-currency space for a while are familiar with exchanges.  Exchanges facilitate trade by accepting deposits in two asset classes and maintaining an order book to facilitate trade among the assets using the deposited funds.   A deposit at an exchange is just an IOU that is tracked on an private database maintained by the exchange.      
 
@@ -20,11 +21,11 @@ Today when you want to trade bitcoin for US Dollars you must deposit both your d
 
 As you can see from the Mt. Gox example, a gateway has less than 50% the liability of an Exchange and users benefit from a global order book with no bitshare withdraw limits.
 
-### Generating Revenue as a Gateway 
+## Generating Revenue as a Gateway 
 
 The primary reason for becoming a gateway is to earn a profit by providing a valuable service to the BitShares community.  Gateways have many ways of generating revenue.  The most straightforward method is by charging transaction fees every time someone moves value through your service.   You can also make money by charging users a fee every time they move one of your assets on the BitShares network and from market fees on the BitShares network.   In addition to transaction fees of various sorts, gateways also have an opportunity to generate revenue on the float they hold for their customers.
 
-### How It Works
+## How It Works
 
 Every single Bitcoin exchange is already performing a similar role to a gateway.  Users transfer funds to the exchange, the exchange tracks how much it owes each user, and when a user asks for a withdraw the exchange sends the funds back.    While the funds are on the exchange users can quickly and safely perform trades with other users of the same exchange.
 
@@ -32,7 +33,7 @@ A BitShares gateway does the exact same process, the only difference is that the
 
 The IOU asset is tremendously useful to users in the BitShares ecosystem because it serves as a very flexible multi-party escrow asset.   Users will use an IOU USD from your gateway to trade against BitUSD and/or IOUs from other gateways.    Users will want to store value in BitUSD because it is mostly free of counter party risk, but when it comes time to convert BitUSD back to fiat USD they will do so through a gateway.   
 
-### Legal Compliance 
+## Legal Compliance 
 
 Any company that takes deposits from customers and facilitates transfers among customers is heavily regulated in most countries.   These regulations include license requirements, bonds, insurance, Know Your Customer (KYC) laws, and anti-money-laundering (AML) compliance among others.   The BitShares block chain provides gateways with all of the tools necessary to comply with these regulations.
 
@@ -44,7 +45,7 @@ If you are already in this business then you are maintaining a database tracking
         
 In other words, if you are operating a legally compliant crypto currency exchange, then you can easily expand your business to becoming a BitShares gateway.  
 
-### Security 
+## Security 
 
 As a gateway you are likely very concerned about the safety of the funds you hold on behalf of your customers.   Fortunately moving your database from a custom internal system to the BitShares network provides your business with greatly improved security because you gain all of the benefits of a block chain.   Every transaction is logged in a public ledger and every balance transfer is signed and verified by 101 elected delegates distributed around the world.   The open source code is in use by many different gateways and peer reviewed by the entire industry.  You can rest assured that no funds will move without being properly signed by the private key of their owner.
 
@@ -56,11 +57,11 @@ Perhaps the single biggest security liability your exchange faces as a gateway i
 
 Access to your User Issued Asset is divided between the owner keys which maintain absolute control and should be kept in cold storage, and manager keys which can be kept on secure "hot" systems.   Every action of the Manager Keys can be undone by the Owner Keys.  This arrangement provides your organization multiple levels of control and maximum flexibility.
 
-### Unlimited Opportunity 
+## Unlimited Opportunity 
 
 The BitShares ecosystem is young and growing quickly.  Each and every day hundreds of thousands of dollars worth of BitShares are traded and one day that could grow to be millions of dollars.  The early gateways that establish trust and provide reliable service will likely become the default go-to gateway and have an opportunity to maximize volume of transactions they can charge fees on.   This early adoption will also result in added awareness of your company among our user base.  While you may start as a gateway you can also grow to provide other related services to the BitShares ecosystem such as hosted wallets or even becoming a delegate.
 
-### Become a Delegate 
+## Become a Delegate 
 
 The BitShares community elects 101 paid delegates to help maintain and support the network.  As a gateway you are already maintaining a full node and keeping up with the latest network upgrades.  Their is almost no extra overhead to becoming a delegate.  Delegates earn over 50 BTS every 17 minutes or about $2500 per month at todays market cap of around $40M.  This delegate pay is already enough to pay for a part time position necessary to integrate BitShares with your companies database and website.   As the market cap grows it could potentially fund your business to expand the services it provides to the BitShares ecosystem.  
 

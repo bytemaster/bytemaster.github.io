@@ -2,12 +2,22 @@
 layout: post
 lang: en
 title:  "What are BitShares Market Pegged Assets?"
+
+author_image: "/assets/img/authorimage1.jpg"
 author: "Lance Kasper (aka Agent86)"
+author_bio: "I'm Lance Kasper - i'm a blub blub"
+
+
+featured: true
+banner_image: "/media/cover_asset.jpg"
+
 categories: article
 ---
 
 
 BitShares market pegged assets are a new type of freely traded digital asset whose value is meant to track the value of a conventional asset such as the U.S. dollar or gold.  What makes market pegged assets unique is that they are free from counter party risk.  BitShares uses an advanced decentralized consensus ledger that takes some cues from Bitcoin.  While Bitcoin has demonstrated many useful properties as a currency, its price volatility makes it risky to hold and difficult to use for everyday pricing and payments.  A currency with the properties and advantages of Bitcoin that maintains price parity with a globally adopted currency such as the US dollar has high utility for convenient and censorship resistant commerce.  This paper will explain how market pegged assets including "BitUSD" (intended to track the value of the US dollar) achieve price parity while minimizing risk to holders.
+
+<!--more-->
 
 ### Price Stability
 

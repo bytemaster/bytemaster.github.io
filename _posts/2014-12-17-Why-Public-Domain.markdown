@@ -11,6 +11,8 @@ to make money from your content.  While I haven't written an article on the subj
 of my opinions are similar to those in the book ["Against Intellectual Monopoly"](http://www.amazon.com/Against-Intellectual-Monopoly-Michele-Boldrin/dp/0521127262)
 by Michele Boldrin and Davik K. Levine.  As you can tell from the title I am very much against intellectual property.
 
+<!--more-->
+
 Regardless of my feelings on intellectual property, the fact remains that governments around the world recognize and 
 enforce copyright.  If you don't publish a license then you automatically retain full rights over your work and in theory
 anyone who uses your work without your permission is guilty of copyright infringement.  In some countries you cannot
@@ -55,7 +57,7 @@ Because BitShares was developed as part of a larger vision to make governments i
 contradiction to depend upon governments to enforce any kind of software license.  BitShares must succeed without
 any kind of license protection at all.   
 
-### Limited Liability 
+## Limited Liability 
 
 As a software developer producing disruptive software that people are depending upon to store millions and hopefully
 billions of dollars of wealth, there exists tremendous liability on the owner of the software if a fault causes a
@@ -69,7 +71,7 @@ If crypto currencies are to be truly free and beyond government control then the
 software licenses that depend upon government enforcement to have any meaning at all.  They need to wake
 up and realize the internal contradiction.  
 
-### Subjective Reality 
+## Subjective Reality 
 
 As some of you may know I take a subjective view of reality that sees everyone as part of one consciousness. 
 Steve Pavlina has written a lot about this subject and ultimately decided to release all of his work into
@@ -115,7 +117,7 @@ the Public Domain.  [Here](http://www.stevepavlina.com/blog/2010/08/moving-beyon
 From this perspective relying on copyright and intellectual property seems downright counterproductive if our
 goal is to create a more free and abundant world.   
 
-### What is Public Domain
+## What is Public Domain
 
   Based upon the reasoning above I have chosen to place everything I create into the Public Domain.
 
@@ -128,7 +130,7 @@ goal is to create a more free and abundant world.
  be robust against attack.
 
 
-### 3rd Party Licenses 
+## 3rd Party Licenses 
 
 BitShares isn't entirely my work, but built on top of many libraries licensed under many different terms. 
 Just because BitShares is Public Domain does not mean governments will not recognize the copyright of third parties
@@ -145,7 +147,7 @@ along side 3rd party libraries then it will be up to you to comply (or not) with
 our dependencies have very permissive open source licenses (MIT, BSD, GPL, etc.) and as an individual user you
 are still legally allowed to use the software.
 
-### I am not a Lawyer 
+## I am not a Lawyer 
 
 Everything I have said in this post should not be taken as legal advice and could be entirely wrong.  Governments may
 still impose liability against the author of Public Domain software even if the author is not the owner.  In my
