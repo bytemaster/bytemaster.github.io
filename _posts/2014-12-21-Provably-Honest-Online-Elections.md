@@ -16,6 +16,8 @@ Paper ballot systems are slow, expensive, and error prone even when no fraud is 
 
 I would argue that a paper election can be fully rigged even at a small scale with 100 people in a room observing the entire process.  It all comes down to the fact that magicians such as David Copperfield have perfected the art of illusion to the point that they can make cars appear from nowhere in front of a live audience.  He can cause a dozen people to disappear from a raised platform with observers on all sides.   We know this level of illusion is possible, and yet those who demand paper ballots like to pretend that no one would ever practice these techniques to make ballots disappear (or appear) from no where.  
 
+Whether or not you believe that there is a great conspiracy to rig paper elections, the fact remains that a provably honest online election is cheaper, more convenient, and therefore will allow more people to participate.   Millions of people are denied an opportunity to vote because they have business travel, sickness, lack transportation, or are otherwise busy on election day.   
+
 ### Voting Machines cannot Be Trusted 
 
 If paper ballots with manual counting are flawed, then electronic ballots with automated counting is worse.  It all boils down to one simple fact, the software and hardware are black boxes whose actual operations are unknowable.  It would be like asking all of the observers of a paper ballot election to rely upon a video feed rather than direct observation.   We know that it is much easier to do magic in front of a video camera than in front of a live audience.  
