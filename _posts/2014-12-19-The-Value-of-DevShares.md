@@ -24,7 +24,7 @@ Some bugs only show up on user machines, on some operating systems, or worst of 
 
 DevShares is our effort at simulating the conditions of the real BitShares network as closely as possible so that we can test every upgrade throughly prior to upgrading BitShares.  To do this we need a live network, with delegates around the world upon which BitAssets are trading.  We need a network that has real value and real users who are experimenting with every proposed update.
 
-In may ways BitShares has been operating as a live development network over the course of the past five months.  We have been upgrading it every couple of weeks and from time to time one of our upgrades goes wrong and we have to follow it with a rapid patch.  This process has been frustrating for users and our business partners who have a difficult time keeping up.
+In many ways BitShares has been operating as a live development network over the course of the past five months.  We have been upgrading it every couple of weeks and from time to time one of our upgrades goes wrong and we have to follow it with a rapid patch.  This process has been frustrating for users and our business partners who have a difficult time keeping up.
 
 DevShares is designed to off load a lot of the upgrade uncertainty from the BitShares network; therefore, DevShares will be identical to BitShares in almost every respect except for the block numbers that upgrades occur at.    Once DevShares reaches a stable and tested version, we will migrate the code to BitShares and keep the changes to a single number in a single file: the block number at which the upgrade should happen.
 
@@ -54,7 +54,7 @@ DevShares is the first step toward BitShares growing up to act like a mature pro
 
 ## Initial Allocation 
 
-The network will be initially allocated as 2 billion shares divided equally among AGS, PTS, and BTS holders as of the December 14th snapshot date.   An additional 50 million vesting shares will be allocated the same was as the 500 million vesting shares in BTS.   These vesting shares are there so that we can throughly test all operations that deal with vesting balances.
+The network will be initially allocated as 2 billion shares divided equally among AGS, PTS, and BTS holders as of the December 14th snapshot date.   An additional 500 million vesting shares will be allocated the same was as the 500 million vesting shares in BTS.   These vesting shares are there so that we can throughly test all operations that deal with vesting balances.
 
 ## Expectations 
 
