@@ -2,6 +2,7 @@
 layout: post
 lang: en
 author: "Daniel Larimer"
+title: "What is BitShares?"
 
 featured: true
 banner_image: "/media/cover_asset.jpg"
