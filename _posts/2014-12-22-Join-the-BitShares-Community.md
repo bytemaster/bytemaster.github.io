@@ -26,18 +26,23 @@ By registering today you get an opportuntiy to reserve a quality name before eve
 
 ### 3) Buy BitShares (BTS) 
 
-When you buy BitShares you become a voting member of our community and can help contribute to the governance of our community.  By owning BitShares you have put your money where your mouth is and get to share in the wealth produced by our growing community.   If we can find 1,000,000 people (Just 0.3% of US population) to each buy $100 worth of BTS then we will generate $100 million dollars worth of buying demand which directly helps fund the development of the tools of freedom.  The first step in this process is for you to buy $100 worth of BTS and get some skin in the game.  Would you be willing to skip a couple of meals to help create a better world?   BitShares could easily become as big (or bigger) than Bitcoin, skipping a few meals this month could buy you a car in a few years and your freedom in a few decades.   Fortunately most of you can probably afford $100 without having to skip meals!  
+When you buy BitShares you become a voting member of our community and can help contribute to the governance of our community.  By owning BitShares you have put your money where your mouth is and get to share in the wealth produced by our growing community.   If we can find 1,000,000 people (Just 0.3% of US population) to each buy $100 worth of BTS then we will generate $100 million dollars worth of buying demand which directly helps fund the development of the tools of freedom.  The first step in this process is for you to buy $100 worth of BTS and get some skin in the game.  Would you be willing to skip a couple of meals to help create a better world?   
+
+BitShares could easily become as big (or bigger) than Bitcoin. Skipping a few meals this month could buy you a car in a few years and your freedom in a few decades.   Fortunately most of you can probably afford $100 without having to skip meals!   
 
 ### 4) Buy BitUSD, BitGold, BitCNY 
 
 Perhaps you are not one willing to take a huge risk on our movement, but you really want to help support the cause by lending our community your money by buying BitUSD.  Buying BitUSD will allow you to earn a steady return on your dollars without taking much risk at all because your loan is 300% collateralized.  In this case you are voting with your economic power to support our cause.  You can [read more about how BitUSD (or BitGold) is a relatively low risk]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) way to support our community and help secure your own freedom.
 
-
 ### 5) Follow us on social media
 
 Follow us on [Facebook](http://www.facebook.com/officialbitshares) and [Twitter](http://www.twitter.com/_bitshares). This is a great way to keep up to date and let your friends and family know that you are part of the BitShares community. 
 
-### 6) Add yourself to our Community Map
+### 6)  Mine BitShares 
+
+Do you have some spare computer power?  Mining BitShares with [our virtual mining multi-pool](http://www.minebitshares.com) allows you to turn spare CPU / GPU cycles into freedom.    
+
+### 7) Add yourself to our Community Map
 
 [Add yourself](https://www.zeemaps.com/map?group=1162907) to our [community map](http://www.zeemaps.com/view?shuttered=1&group=1162907&x=-80.400616&y=37.224179&z=15) to show your support!  This lets people visually see where our community is and how many people near by.
 
