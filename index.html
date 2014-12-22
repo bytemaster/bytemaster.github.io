@@ -7,9 +7,21 @@ layout: default
 	<h4>{{ site.title }}</h4>
 	<p>{{ site.description }}</p>
 	<hr>
+
+	<header>
+        <div class="feature"><span>Featured Posts</span></div>
+          <ul>
+          {% for post in site.posts %}
+             {% if post.featured == true  %}
+              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+             {% endif %}
+          {% endfor %}
+          </ul>
+  </header>
 </div>
 
 <section class="posts postindex wrapper">
+
 
 	{% for post in paginator.posts %}
 		<article class="post {% if post.featured == true %} featured {% endif %}">
