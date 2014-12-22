@@ -22,7 +22,7 @@ The [BitShares forum](https://bitsharestalk.org) is the center of our community 
 
 The next step toward joining our community is to actually [download a BitShares wallet](http://github.com/BitShares/bitshares/releases) and register an account on the BitShares block chain itself.  You should do this even if you have not purchased any bitshares (BTS) or other BitShares crypto assets.  Your BitShares account will become the foundation of your future crypto-identity and reputation.  It will eventually allow you to [login](todo/link_to_page_about_login) to various BitShares services and serve as a secure means of [communicating](todo/link_to_page_about_bitshares_mail) with fellow community members.   The full value of your BitShares account will be realized over the coming years, but there is still significant value in registering today.  
 
-By registering today you get an opportuntiy to reserve a quality name before everyone else.  Older accounts have greater respect for online reputation because they are less likely to be fake.   If you register today you can prove to the world that you were an early supporter, hopefully that will carry significant street cred in a couple of years.   The very act of registering helps to tell the world that the BitShares network is growing and supported by real people.  The market will assimilate this information into a higher valuation for BitShares which in turn helps fund the ongoing development of our platform.
+By registering today you get an opportunity to reserve a quality name before everyone else.  Older accounts have greater respect for online reputation because they are less likely to be fake.   If you register today you can prove to the world that you were an early supporter, hopefully that will carry significant street cred in a couple of years.   The very act of registering helps to tell the world that the BitShares network is growing and supported by real people.  The market will assimilate this information into a higher valuation for BitShares which in turn helps fund the ongoing development of our platform.
 
 ### 3) Buy BitShares (BTS) 
 
@@ -32,7 +32,7 @@ BitShares could easily become as big (or bigger) than Bitcoin. Skipping a few me
 
 ### 4) Buy BitUSD, BitGold, BitCNY 
 
-Perhaps you are not one willing to take a huge risk on our movement, but you really want to help support the cause by lending our community your money by buying BitUSD.  Buying BitUSD will allow you to earn a steady return on your dollars without taking much risk at all because your loan is 300% collateralized.  In this case you are voting with your economic power to support our cause.  You can [read more about how BitUSD (or BitGold) is a relatively low risk]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) way to support our community and help secure your own freedom.
+Perhaps you are not one willing to take a huge risk on our movement, but you really want to help support the cause. You can help by lending our community your money by buying BitUSD.  Buying BitUSD will allow you to earn a steady return on your dollars without taking much risk at all because your loan is 300% collateralized.  In this case you are voting with your economic power to support our cause.  You can [read more about how BitUSD (or BitGold) is a relatively low risk]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) way to support our community and help secure your own freedom.
 
 ### 5) Follow us on social media
 
