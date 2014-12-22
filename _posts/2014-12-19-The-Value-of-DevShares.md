@@ -54,7 +54,7 @@ DevShares is the first step toward BitShares growing up to act like a mature pro
 
 ## Initial Allocation 
 
-The network will be initially allocated as 2 billion shares divided equally among AGS, PTS, and BTS holders as of the December 14th snapshot date.   An additional 50 million vesting shares will be allocated the same was as the 500 million vesting shares in BTS.   These vesting shares are there so that we can throughly test all operations that deal with vesting balances.
+The network will be initially allocated as 2 billion shares divided equally among AGS, PTS, and BTS holders as of the December 14th snapshot date.   An additional 500 million vesting shares will be allocated the same was as the 500 million vesting shares in BTS.   These vesting shares are there so that we can throughly test all operations that deal with vesting balances.
 
 ## Expectations 
 
