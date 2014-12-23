@@ -3,6 +3,10 @@ layout: post
 title:  "BitShares Login"
 author: "Daniel Larimer & Nathan Hourt"
 categories: article
+
+sharing: true
+featured: true
+banner_image: "/media/cover_asset.jpg"
 ---
 In a previous article I ask the question ["Who *really* owns your online identity?"]({% post_url 2013-08-28-Own-Your-Identity-with-BitShares %}).  Under todays internet the answer is simple: Not You.   Your online identity is managed by your login credentials which are usually tied to your email account.  Google, Apple, Microsoft, Yahoo and/or your ISP collectively control the vast majority of email accounts and therefore own your online identity.  At any time they can freeze your account or recover the password for every other service you use from Facebook to your online banking.   Imagine how many things you would lose access to if you were locked out of your email account!
 
