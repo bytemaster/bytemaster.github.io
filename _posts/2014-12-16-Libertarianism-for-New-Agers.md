@@ -13,7 +13,7 @@ I decided to investigate one influential new-ager, [Steve Pavlina](http://stevep
 
 It is clear that Steve Pavlina has all of the makings of a libertarian, so imagine my surprise when I read the following quote from this ‘aware’ guru, “I for one feel grateful for just how well systems of business and government work in the USA.”  Anyone who can claim that any government ‘works well’, is clearly not a libertarian and clearly not very ‘aware’ about the nature of government as an institution of violence, fear, and propaganda.
 
-Unfortunately, Steve Pavlina is not alone in his government blind spot. Other major players in the New Age movement such as Ekhart Tolle and those whom follow him (Opera and Jim Carrey) have suggested that Obama demonstrated natural signs of higher consciousness through his ability to be ‘present’.   At least Ekhart’s official stance is that politics is a creation of the ‘ego’ and would rather not participate.  
+Unfortunately, Steve Pavlina is not alone in his government blind spot. Other major players in the New Age movement such as Ekhart Tolle and those whom follow him (Oprah and Jim Carrey) have suggested that Obama demonstrated natural signs of higher consciousness through his ability to be ‘present’.   At least Ekhart’s official stance is that politics is a creation of the ‘ego’ and would rather not participate.  
 
 I believe that individuals like Steve Pavlina or Ekhart are honest, sincere, and simply have not taken the time to consider the topic or how their ignorance of libertarian philosophy is affecting their life and their audience.  It is for this reason that I decided to write an essay to introduce New Agers to how naturally libertarianism or anarcho-capitalism fit into their world view.   
 
