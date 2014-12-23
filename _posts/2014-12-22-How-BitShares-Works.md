@@ -1,17 +1,16 @@
 ---
 layout: post
 lang: en
-title:  "How BitShares Works"
-<<<<<<< HEAD
+title: "How BitShares Works"
 author_image: "/assets/img/author-logicalgrackle.jpg"
 author: "logicalgrackle"
 author_bio: "Guest Author"
-=======
-author: "logicalgrackle"
->>>>>>> FETCH_HEAD
+
 categories: 
-    - guest
+- guest
+
 ---
+
 BitShares is a platform for stable value cryptocurrencies. There are now digital versions of dollars, yuan and gold that have the same prices and stability as their counterparts, but with all the advantages of cryptocurrencies. You can send them anywhere in the world for miniscule fees, and you have full control over your money, so it isn’t frozen or lost when the banking system runs into crises. You need to understand how these BitAssets work so you can take advantage of price stability on the blockchain.
 
 ### Market Peg

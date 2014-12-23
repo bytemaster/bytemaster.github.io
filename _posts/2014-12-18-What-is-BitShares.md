@@ -2,15 +2,11 @@
 layout: post
 lang: en
 author: "Daniel Larimer"
-<<<<<<< HEAD
-=======
 title: "What is BitShares?"
->>>>>>> FETCH_HEAD
-
 featured: true
 banner_image: "/media/cover_asset.jpg"
-
-categories: update
+categories: 
+- update
 sharing: true
 
 ---

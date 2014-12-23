@@ -12,11 +12,10 @@ paginate: 				10
 author_name: 				"Daniel Larimer"
 #author_url: 				"http://bitshares.org"
 author_bio: 				"My name is Daniel Larimer and I am the founder of BitShares. My mission in life is to find free market solutions to secure life, liberty, and property for all."
-<<<<<<< HEAD
+
 author_image: 			"/assets/img/author-dan.jpg"
-=======
-author_image: 			"/assets/img/authorimage.jpg"
->>>>>>> FETCH_HEAD
+
+
 
 
 # Social Settings

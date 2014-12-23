@@ -2,12 +2,8 @@
 layout: post
 title:  "Join the BitShares Community Today!"
 author: "Daniel Larimer"
-<<<<<<< HEAD
 categories: 
 - article
-=======
-categories: article
->>>>>>> FETCH_HEAD
 ---
 
 The BitShares community is a group of individuals who are looking to change the world through innovation and
