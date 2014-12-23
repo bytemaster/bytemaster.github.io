@@ -26,7 +26,7 @@ If we are to engineer a libertarian utopia it must be done in such a way that la
 
 The principle upon which all the ideas in this blog are based is what I call The Golden Principle:
 
-   “Do not do unto others what you do not what others doing to you”.  
+   “Do not do unto others what you do not want others doing to you”.  
 
 You may recognize this principle as a variation of the Golden Rule, “Do unto others as you would have them do unto you”.    The Golden Rule is generally accepted and promoted by most individuals and religions, but if you attempt to implement the Golden Rule in your life you will quickly discover that what you want others to do unto you is unbounded.   It is an impossible rule to live by and thus quietly abandoned to the realm of unlimited rationalizations used to justify unending exceptions to the rule.
 

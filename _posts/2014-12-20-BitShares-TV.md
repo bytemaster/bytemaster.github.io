@@ -2,9 +2,14 @@
 layout: post
 lang: en
 title:  "Introducing BitShares.TV"
+
+author_image: "/assets/img/author-max-wright.jpg"
 author: "Max Wright"
+author_bio: "I'm Max Wright"
+
 categories: 
     - article
+    
 ---
 [BitShares.TV](http://bitshares.tv) hosted by Max Wright, is a weekly internet show dedicated to keeping you up-to-date with the world of BitShares. The first 3 episodes are online and ready for you to watch right now. 
 

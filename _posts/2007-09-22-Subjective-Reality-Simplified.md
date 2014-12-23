@@ -2,7 +2,11 @@
 layout: post
 lang: en
 title:  "Subjective Reality Simplified"
+
+author_image: "/assets/img/author-steve-pavlina.jpg"
 author: "Steve Pavlina"
+author_bio: "I'm Steve Pavlina"
+
 categories: 
     - article
 ---

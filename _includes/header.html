@@ -3,15 +3,20 @@
 </header>
 
 <nav class="wrapper {% if page.featured == true %} featured {% endif %} {% if site.theme_always_show_nav == true %} alwaysshow {% endif %} ">
-    <a href="#" onclick="return false;"><i class="fa fa-navicon fa-lg"></i></a>
     <ul>       
-         <li><a target="_blank" href="/" >Home</a></li>
+         <li><a  href="/" >Home</a></li>
          <!--
         {% for page in site.pages %}
             {% if page.title %}<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endif %}
         {% endfor %}
         -->
-         <li><a target="_blank" href="/all" >About</a></li>
+<<<<<<< HEAD
+         <li><a href="/all" >Index</a></li>
+         <li><a href="/about" >About</a></li>
+=======
+         <li><a target="_blank" href="/all" >Index</a></li>
+         <li><a target="_blank" href="/about" >About</a></li>
+>>>>>>> FETCH_HEAD
     </ul>
     
 </nav>

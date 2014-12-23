@@ -5,10 +5,11 @@
 
 	
 
-	    .featured-post a {
-         font-size: 13px;
-	    
-	    }
+.featured-post a {
+   font-size: 16px;
+   line-height: 28px;
+
+}
 	
 
 
@@ -389,6 +390,25 @@
 	}
 
 }
+
+
+.small-featured-post {
+  display:none;
+  @media screen and (max-width: 1330px) {
+    width: 100%;
+  	display:block;
+  	padding: 10px 10px;
+
+  }
+  ul li {
+  }
+  a {
+  font-size: 16px;
+  color: #00A7E1;
+  
+  }
+  
+  }
 
 #g-comments{
 	width:100% !important;

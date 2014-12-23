@@ -10,14 +10,10 @@ layout: default
 </div>
 
 
-
-
-
-
 <div class="profile {% if page.featured == true %} featured {% endif %}">
 
 {% if page.author_image %}
-<img src="{{ page.author_image }}" class="profileimage" alt="user">
+  <img src="{{ page.author_image }}" class="profileimage" alt="user">
 {% else %}
 {% if site.author_image != "" %}<img src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
 {% endif %}
@@ -36,22 +32,16 @@ layout: default
 <hr>
 {% endif %}
 
-
-
-<div class="featured-post">
-<h2>Featured posts</h2> <ul>
-{% for post in site.posts %}
-    {% if post.featured == true %}
-      {% capture count %}{{ count | plus: '4' }}{% endcapture %}
-    
-        <ul>
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></li>
-
-    
-  {% endif %}
-{% endfor %}
-
-</div>
+<header>
+        <div class="feature "><span>Featured Posts</span></div>
+          <ul>
+          {% for post in site.posts %}
+             {% if post.featured == true  %}
+              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+             {% endif %}
+          {% endfor %}
+          </ul>
+</header>
 
    </div>
 
@@ -68,7 +58,7 @@ layout: default
         <span>
             Posted by <strong>{% if page.author %}{{ page.author }}{% else %}{{ site.author_name }}{% endif %}</strong>
                 on <i class="fa fa-clock-o"></i> <span class="time" ><time datetime="{{ page.date| date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>.
-        </span>
+               
     </header>
     <i class="fa fa-chevron-down movedown"></i>
 </div>
@@ -88,6 +78,7 @@ layout: default
             <span>
                 Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.author_name }}{% endif %}
                 on <i class="fa fa-clock-o"></i> <time datetime="{{ page.date| date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
+                
             </span>
         </header>
 
@@ -96,13 +87,19 @@ layout: default
         </section>
 
         <footer>
+ 
             <ul class="share left">
+                <li><a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}&title={{ page.title }}" onclick="window.open(this.href, 'reddit-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-reddit"></i>Reddit</a></li>
                 <li><a href="http://twitter.com/share?text={{ page.title }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-twitter"></i>Twitter</a></li>
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="smallbutton lightgray"><i class="fa fa-facebook"></i>Facebook</a></li>
+                                 <li><a href="{{ site.url }}/feed.xml"  class="smallbutton lightgray"><i class="fa fa-rss"></i>RSS feed</a></li>
+                
+                <ul>
+                
+                    </ul>
             </ul>
         </footer>
 
-      
         {% if page.comments %}
         <div class="comments">
             <a href="javascript:;" class="readmore smallbutton blue"><i class="fa fa-comments"></i>View Comments...</a>

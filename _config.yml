@@ -1,6 +1,6 @@
 # Site Settings
 title: 						"Bytemaster's Blog"
-description: 				"Join me as I explore free market solutions to secure life, liberty, and property for all."
+description: 				"My name is Daniel Larimer and I am the founder of BitShares. My mission in life is to find free market solutions to secure life, liberty, and property for all."
 baseurl: 					""
 #url: 						""
 logourl: 					"/assets/img/bloglogo.jpg"		
@@ -11,8 +11,12 @@ paginate: 				10
 # Author Settings
 author_name: 				"Daniel Larimer"
 #author_url: 				"http://bitshares.org"
-author_bio: 				"My name is Daniel Larimer and I am the founder of BitShares."
+author_bio: 				"My name is Daniel Larimer and I am the founder of BitShares. My mission in life is to find free market solutions to secure life, liberty, and property for all."
+<<<<<<< HEAD
+author_image: 			"/assets/img/author-dan.jpg"
+=======
 author_image: 			"/assets/img/authorimage.jpg"
+>>>>>>> FETCH_HEAD
 
 
 # Social Settings
@@ -28,10 +32,10 @@ github_url:  				"http://github.com/bytemaster"
 
 
 # Theme Settings
-theme_disqus_shortname: 	"bytemaster"
+theme_disqus_shortname: 	"thebytemaster"
 theme_google_comments: 		false
 theme_analytics_id: 		"UA-28282324-1"
-theme_analytics_domain: 	"ecko.me"
+theme_analytics_domain: 	""
 theme_reading_time: 		true
 theme_autoload_comments: 	false
 theme_always_show_nav: 		true

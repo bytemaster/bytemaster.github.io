@@ -3,7 +3,7 @@ layout: post
 lang: en
 title:  "What are BitShares Market Pegged Assets?"
 
-author_image: "/assets/img/authorimage1.jpg"
+author_image: "/assets/img/author-lance-kasper.jpg"
 author: "Lance Kasper (aka Agent86)"
 author_bio: "I'm Lance Kasper "
 

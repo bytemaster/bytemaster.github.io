@@ -1,4 +1,23 @@
+
+
 <footer class="wrapper">
+<div class="small-featured-post left">
+	    	<h2>Featured posts</h2> 
+
+	{% for post in site.posts %}
+	    {% if post.featured == true %}
+	      {% capture count %}{{ count | plus: '4' }}{% endcapture %}
+	    
+	     
+	        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a><br>
+	      
+	  {% endif %}
+
+	  
+	{% endfor %}
+	
+	</div>
+
     <div class="smallnav">
     	{% for page in site.pages %}
         	{% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> &bull;{% endif %}

@@ -7,9 +7,35 @@ layout: default
 	<h4>{{ site.title }}</h4>
 	<p>{{ site.description }}</p>
 	<hr>
-</div>
+<<<<<<< HEAD
+=======
 
+	<header>
+        <div class="feature"><span>Featured Posts</span></div>
+          <ul>
+          {% for post in site.posts %}
+             {% if post.featured == true  %}
+              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+             {% endif %}
+          {% endfor %}
+          </ul>
+  </header>
+</div>
+>>>>>>> FETCH_HEAD
+
+	<header>
+	        <div class="feature"><span>Featured Posts</span></div>
+	          <ul>
+	          {% for post in site.posts %}
+	             {% if post.featured == true  %}
+	              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+	             {% endif %}
+	          {% endfor %}
+	          </ul>
+  </header>
+</div>
 <section class="posts postindex wrapper">
+
 
 	{% for post in paginator.posts %}
 		<article class="post {% if post.featured == true %} featured {% endif %}">
@@ -22,7 +48,7 @@ layout: default
 				</h2>-->
 				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 				<span>
-					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
+					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> by {{ post.author }}.
 				</span>
 				<div class="excerpt">
 					{% if post.content contains '<!--more-->' %}

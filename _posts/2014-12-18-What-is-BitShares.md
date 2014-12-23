@@ -1,6 +1,11 @@
 ---
 layout: post
 lang: en
+author: "Daniel Larimer"
+<<<<<<< HEAD
+=======
+title: "What is BitShares?"
+>>>>>>> FETCH_HEAD
 
 featured: true
 banner_image: "/media/cover_asset.jpg"
@@ -52,7 +57,8 @@ The New York Stock exchange is a company that maintains a ledger to track owners
 
 Banks are companies that maintain a ledger to track debt collateralized by other assets such as housing.  This debt is the money used around the world, denominated in dollars, euros, yuan, etc.  Banks earn income by charging interest to the borrowers and attract capital by paying interest to depositors.  BitShares creates dollar denominated debt collateralized by BTS.  This dollar denominated debt is a [BitAsset]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) known as BitUSD.  BitShares supports any number of BitAssets including BitGold, BitSilver, BitOil, etc.  Whereas normal banks practice the unsustainable business of fractional reserve banking, BitShares uses at least 200% reserve and is often over 300% reserve.  Whereas normal banks use illiquid assets to back (collateralize) debt payable on demand, BitShares uses highly liquid BTS as collateral.   Whereas normal banks are bailed out by tax payers, BitShares depositors have direct claim on the collateral.   
 
-Overall BitShares is better banking. Lance Kasper wrote a detailed article explaining how [BitShares Market Pegged Assets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) operate.  I highly recommend the article to everyone.
+Overall BitShares is better banking. For a more detailed understanding see my article on ["BitShares as a Bank"]({% post_url 2014-12-20-BitShares-as-a-Bank %}) or Lance Kasper's detailed [article explaining how BitShares Market Pegged Assets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) operate.  I highly recommend these article to everyone.
+
 
 ##BitShares is a Currency
 
@@ -81,4 +87,5 @@ Countries are what communities become when they become large enough and powerful
 
 BitShares is a small town on global scale.  
 
-Our community is open to all who wish to create a free society where our children can be secure in life, liberty, and property.  Join us and be a part of the solution.
+Our community is open to all who wish to create a free society where our children can be secure in life, liberty, and property.  [Join us]({% post_url  2014-12-22-Join-the-BitShares-Community %}) and be a part of the solution.
+
