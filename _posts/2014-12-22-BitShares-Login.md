@@ -66,10 +66,11 @@ A PHP script which demonstrates the BitShares Login protocol is available [here]
 
 The BitShares Login protocol involves four steps:
 
- -# The server creates a Login URL containing the server's authentication tokens and the URL of the page the server uses to authenticate users, and embeds it in a web page viewed by the user
- -# The user opens the URL, which triggers the BitShares client to verify the server's tokens and ask the user if they wish to log in with the authenticated server
- -# The BitShares client opens a new browser window to the page the server specified in the Login URL, with the client's authentication tokens in the query string
- -# The server receives the page request, verifies and expires the tokens, and starts an authenticated session with the client
+1. The server creates a Login URL containing the server's authentication tokens and the URL of the page the server uses to authenticate users, and embeds it in a web page viewed by the user
+2. The user opens the URL, which triggers the BitShares client to verify the server's tokens and ask the user if they wish to log in with the authenticated server
+3. The BitShares client opens a new browser window to the page the server specified in the Login URL, with the client's authentication tokens in the query string
+4.  The server receives the page request, verifies and expires the tokens, and starts an authenticated session with the client
+
 Only steps 1 and 3 involve network communications, making the protocol a fast and simple two-way handshake. After completing step 4, the server holds the client's public key on BitShares (which was not leaked to an eavesdropper), and both the browser and server hold a shared secret. We now examine each of these four steps in detail.
 
 #### Step One
