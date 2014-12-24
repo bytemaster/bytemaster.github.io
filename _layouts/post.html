@@ -70,6 +70,21 @@ layout: default
         </div>
         {% endif %}
 
+  <h2> Recent Articles </h2>
+  <ul style="list-style-type: none;">
+	{% for post in site.posts %}
+	<!--			<h2>
+					{% for category in post.categories %}
+					{{ category }} 
+					{% endfor %} 
+				</h2>-->
+				<li >
+				  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+	{% endfor %}
+  </ul>
+
+
     </article>
 
 </section>
