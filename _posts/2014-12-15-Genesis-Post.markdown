@@ -7,7 +7,7 @@ categories:
     - update
 ---
 Every blog requires a first post, so it is only fitting for a blog that discusses 
-the power of blockchain technology start with a genesis post.  This blog is a new
+the power of blockchain technology to start with a genesis post.  This blog is a new
 beginning in my effort to communicate my vision for a new world.  If I am going
 to change the world then it would be helpful for everyone who wants to help if
 they knew where I was going.   

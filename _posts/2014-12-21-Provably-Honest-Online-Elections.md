@@ -8,7 +8,7 @@ banner_image: "/media/cover_asset.jpg"
 sharing: true
 ---
 
-Moving elections online is a very controversial subject because it is something everyone would like, but it is not trivial to implement in a provably honest manner.    There are countless articles around the internet that throughly document how even electronic voting or vote counting is unverifiable and cannot be trusted.   The worries about electronic voting are so strong that many people suggest that only a manually counted paper ballot system can be trusted.   While many may be content to accept paper ballots as the “least bad option”, I would like to present new approach that is provably honest.
+Moving elections online is a very controversial subject because it is something everyone would like, but it is not trivial to implement in a provably honest manner.    There are countless articles around the internet that thoroughly document how even electronic voting or vote counting is unverifiable and cannot be trusted.   The worries about electronic voting are so strong that many people suggest that only a manually counted paper ballot system can be trusted.   While many may be content to accept paper ballots as the “least bad option”, I would like to present new approach that is provably honest.
 
 ### Paper Ballots are not Provably Honest
 
@@ -117,9 +117,9 @@ I have only scratched the surface on provably honest elections and will probably
 
 ### Hacking Individual Computers 
 
-Many people worry about the security of their computers and the effect that would have on an election.   This system would be subject to ballot private keys being compromised which would allow the attacker to change individual votes.   This is no different than the security considerations that people must consider when using crypto currencies.  It is easy to see that crypto currency targets are far more valuable than compromising someones vote.   The crypto-currency community is rapidly advancing the ability for individuals to securely manage their keys.
+Many people worry about the security of their computers and the effect that would have on an election.   This system would be subject to ballot private keys being compromised which would allow the attacker to change individual votes.   This is no different than the security considerations that people must consider when using crypto currencies.  It is easy to see that crypto currency targets are far more valuable than compromising someone's vote.   The crypto-currency community is rapidly advancing the ability for individuals to securely manage their keys.
 
-If a private key were to be compromised a voter would be able to observe their vote change *AND* be able to change it back.  People would be able to measure the degree of compromise and assess for themselves if it was greater than the margin of error in the election.   This is far better than todays system where it is impossible to detect a compromise or the extent of the compromise.  
+If a private key were to be compromised a voter would be able to observe their vote change *AND* be able to change it back.  People would be able to measure the degree of compromise and assess for themselves if it was greater than the margin of error in the election.   This is far better than today's system where it is impossible to detect a compromise or the extent of the compromise.  
 
 When a hacker attacks an individuals computer, the likely outcome is that one vote is not counted.   A voter would detect that they have been compromised when they see their vote change and they will revoke their ballot.  
 
