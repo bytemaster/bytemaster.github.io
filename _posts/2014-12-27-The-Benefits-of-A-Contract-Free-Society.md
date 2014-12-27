@@ -99,3 +99,6 @@ In a contract free society agreements are documented but everyone understands th
 So long as we insist on living in a world of enforceable contracts we will continue to empower the very beast that enslaves us.  We are operating on the implicit expectation of the right to use force and in turn manifest a society built on violence and coercion rather than love.
 
 You cannot change others, but you can change yourself.   I specifically avoid committing to legally binding contracts when ever possible.  It can be very challenging for some people who feel the need to reserve the right to sue you and coerce you into fulfilling your promises.   In general these are the type of people we should be shunning.  Every time we give business to someone who demands a legal contract we are supporting our own enslavement.   So I challenge you to release your need to control others and instead learn how to interact with others entirely without any legal obligations what-so-ever.  
+
+
+Discuss this subject at [bitsharestalk.org](https://bitsharestalk.org/index.php?topic=12696).
