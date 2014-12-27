@@ -68,7 +68,7 @@ The key to enforcing a documented agreement is coordinated voluntary shunning of
 
 ### Dropping the Term Contract 
 
-The reason I argue for a “contract-free” society is because we live in a society where the government as co-opted the language and defined terms.   If you have an informal verbal agreement to meet at a particular time and place for dinner then there is little anyone can do to compel to attend or punish you for failure to attend.   Even if you wrote it down in an email or text message, it is not a “legally enforceable contract” and thus the government has no standing.  The reason the government lacks standing is because, despite the agreement, there was not an *intent* to create a *legal obligation*.   
+The reason I argue for a “contract-free” society is because we live in a society where the government has co-opted the language and defined terms.   If you have an informal verbal agreement to meet at a particular time and place for dinner then there is little anyone can do to compel to attend or punish you for failure to attend.   Even if you wrote it down in an email or text message, it is not a “legally enforceable contract” and thus the government has no standing.  The reason the government lacks standing is because, despite the agreement, there was not an *intent* to create a *legal obligation*.   
 
 There are many laws on the book governing contracts and what kind of contracts you may or may not enter into.   You cannot sell debt or stock to the public because those *contracts* are regulated *contracts* and require SEC approval.   You cannot insure against getting caught breaking the law.   You cannot contract for certain work unless you have a license.   
 
