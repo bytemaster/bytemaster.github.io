@@ -54,12 +54,20 @@ layout: default
             {{ content }}
         </section>
 
-        <footer>
-            <ul class="share left">
-                <li><a href="http://twitter.com/share?text={{ page.title }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-twitter"></i>Twitter</a></li>
-                <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="smallbutton lightgray"><i class="fa fa-facebook"></i>Facebook</a></li>
-            </ul>
-        </footer>
+    <footer>
+    
+               <ul class="share left">
+                   <li><a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}&title={{ page.title }}" onclick="window.open(this.href, 'reddit-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-reddit"></i>Reddit</a></li>
+                   <li><a href="http://twitter.com/share?text={{ page.title }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-twitter"></i>Twitter</a></li>
+                   <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="smallbutton lightgray"><i class="fa fa-facebook"></i>Facebook</a></li>
+                                    <li><a href="{{ site.url }}/feed.xml"  class="smallbutton lightgray"><i class="fa fa-rss"></i>RSS feed</a></li>
+                   
+                   <ul>
+                   
+                       </ul>
+               </ul>
+           </footer>
+    
 
       
         {% if page.comments %}
@@ -70,6 +78,7 @@ layout: default
         </div>
         {% endif %}
 
+<div class="test">
   <h2> Recent Articles </h2>
   <ul style="list-style-type: none;">
 	{% for post in site.posts %}
@@ -83,14 +92,23 @@ layout: default
         </li>
 	{% endfor %}
   </ul>
-
+</div>
 
     </article>
 
 </section>
 </td>
 <td width=40px>&nbsp;</td>
-<td width="300px" valign="top" style="padding-top:100px;">
+<td class="test" width="300px" valign="top" style="padding-top:100px;">
     {% include right_sidebar.html %}
 </td>
-</tr></table></center>
+</tr>
+<tr>
+<td class="test2">{% include footer_sidebar.html %}</td>
+</tr>
+</table></center>
+
+ 
+
+ 
+
