@@ -397,3 +397,22 @@
 	}
 }
 
+.test {
+
+
+  @media screen and (max-width: 900px) {
+    display: none;
+  }
+
+}
+
+
+.test2  {
+ display: none;
+  @media screen and (max-width: 900px) {
+    display: inline-block;
+  }
+
+}
+
+

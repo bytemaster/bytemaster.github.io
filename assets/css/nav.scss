@@ -18,7 +18,7 @@ nav{
 			opacity:0.7;
 			&:hover{
 				opacity:1;
-			}
+			}  
 		}
 	}
 
@@ -54,6 +54,10 @@ nav{
 			color:#007cc3;
 			padding:6px 17px;
 		}
+		@media screen and (max-width: 906px) {
+		  padding:2px 1px;
+	
+		}
 	}
 
 	&.alwaysshow ul, &.alwaysshow i{
@@ -61,9 +65,6 @@ nav{
 		height:auto;
 	}
 
-	&:hover{
-		padding:0 0 30px 30px;
-	}
 
 	&:hover i, &:hover ul{
 		opacity:1;
@@ -75,7 +76,8 @@ nav{
 	}
 
 	@media screen and (max-width: 906px) {
-		display:none !important;
+	  margin-top: 80px;
+		font:300 13px 'Open Sans', Serif;
 	}
 
 }
