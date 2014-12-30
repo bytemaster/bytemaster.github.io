@@ -44,7 +44,7 @@ Vitalik recognized the problem of distributing new issuance in his blog where he
 3. SchellingDollar approach.  
 4. Seignorage Shares 
 
-It was easy to dismiss the mining approach because it has no way to reduce supply and still results in a wealth transfer to miners which waist most of it in the mining process itself.   I will skip the BitAsset approach and simply point you to an [entire post about our Market Pegged assets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}).   This leaves only the SchellingDollar and Seignorage Shares approaches. 
+It was easy to dismiss the mining approach because it has no way to reduce supply and still results in a wealth transfer to miners which waste most of it in the mining process itself.   I will skip the BitAsset approach and simply point you to an [entire post about our Market Pegged assets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}).   This leaves only the SchellingDollar and Seignorage Shares approaches. 
 
 Under the SchellingDollar there are two coins, one pegged to the dollar and one volatile and a central “oracle” that imposes positive and negative interest rates on the stable coin to maintain price parity with the dollar.  
 
