@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title:  "Stable crypto-currencies are Impossible" 
+title:  "Stable Currencies are Impossible and Undesirable" 
 author: "Daniel Larimer"
 categories: 
     - article
