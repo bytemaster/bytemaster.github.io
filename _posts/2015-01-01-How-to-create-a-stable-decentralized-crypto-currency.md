@@ -18,7 +18,7 @@ The real debate is not whether or not we can peg one asset to another, it is whe
 
 In my prior post I suggested that we could create an artificial asset tied to the consumer price index. This would have the impact of simulating what would happen once a fixed supply currency was universally adopted.   The downside is that it is impossible to come up with a long-term universal consensus on what the growth rate of the economy is by traditional means.  You end up having to come to a consensus on what basket of commodities and currencies to use, what measure of value, what relative weights, and what substitutions to make from year to year.    It is the whole consensus process all over again and which ever entity is responsible for estimating inflation would be completely in control of monetary policy.    
 
-One thing Vitalik did point out was that [Shadow Stats was a bad source of data](http://azizonomics.com/2013/06/01/the-trouble-with-shadowstats/), for which I thank him.   That said, I still believe that the CPI and the sited [Billion Prices Project](http://bpp.mit.edu/usa/) is an equally bad source of data.  There are three primary reasons all of these CPI measurements are flawed.
+One thing Vitalik did point out was that [Shadow Stats was a bad source of data](http://azizonomics.com/2013/06/01/the-trouble-with-shadowstats/), for which I thank him.   That said, I still believe that the CPI and the cited [Billion Prices Project](http://bpp.mit.edu/usa/) is an equally bad source of data.  There are three primary reasons all of these CPI measurements are flawed.
 
 1. They exclude entire asset classes that have experienced the greatest inflation (stock market) 
 2. They fail to account for economic growth that would normally lead to falling prices 
