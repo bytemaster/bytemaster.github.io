@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title:  "Stable Currencies are Impossible and Undesirable" 
+title:  "Stable Currencies are Impractical and Undesirable" 
 author: "Daniel Larimer"
 categories: 
     - article
