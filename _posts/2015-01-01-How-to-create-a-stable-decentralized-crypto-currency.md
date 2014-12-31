@@ -37,7 +37,7 @@ From a crypto-currency perspective, our primary goal is to eliminate the need to
 
 Fortunately most proposed systems end up with a pair of currencies: volatile and stable.   The result is that the volatile currency acts as a kind of reserve for the stable currency.  The average man could simply invest in the “volatile” currency to get the growth he wants assuming the volatile currency has a fixed supply.    With this approach the only question is what should we peg the “stable” currency to?   With BitShares we allow pegging to any other currency or commodity.  There is no reason to invent a new unit of account that has its own centralization issues. 
 
-Systems such as Nubits which are tied to the dollar will fail will the dollar.  The only reliable approach is to have a system where there are many pegged assets that can be used as money all of which use the same reserve currency.  In this way the market can switch from BitUSD to BitGOLD or BitSILVER in the event that the worlds fiat currencies collapse.  A basket of pegged assets is the key to a stable solution.      
+Systems such as Nubits which are tied to the dollar will fail with the dollar.  The only reliable approach is to have a system where there are many pegged assets that can be used as money all of which use the same reserve currency.  In this way the market can switch from BitUSD to BitGOLD or BitSILVER in the event that the worlds fiat currencies collapse.  A basket of pegged assets is the key to a stable solution.      
 
 ## Fixed Supply Currency is Ideal 
 
