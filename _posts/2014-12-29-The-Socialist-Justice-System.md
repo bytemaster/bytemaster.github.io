@@ -47,4 +47,4 @@ When you have a socialist justice system all of the emotions and irrational beha
 
 ## Justice in a Free Society 
 
-This blog post would get entirely too long if I attempted to propose solutions to the current system here.   I just wanted to point out that we need to find a free market approach to justice so we can all start saving hundreds of billions of dollars per year waisted to socialist inefficiency.  A solution exists and BitShares is laying the foundation.   Stay tuned for more details on how it all might work. 
+This blog post would get entirely too long if I attempted to propose solutions to the current system here.   I just wanted to point out that we need to find a free market approach to justice so we can all start saving hundreds of billions of dollars per year wasted to socialist inefficiency.  A solution exists and BitShares is laying the foundation.   Stay tuned for more details on how it all might work. 
