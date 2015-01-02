@@ -4,7 +4,7 @@ lang: en
 title:  "New Management of bitshares.org and Social Media" 
 author: "Adam Ernest & Daniel Larimer"
 categories: 
-    - article
+    - update
 ---
 Today we have a guest post by Adam Ernest who is taking over bitshares.org and our social media.  
 
