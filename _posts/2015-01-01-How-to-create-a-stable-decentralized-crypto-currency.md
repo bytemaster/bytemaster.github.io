@@ -21,7 +21,7 @@ In my prior post I suggested that we could create an artificial asset tied to th
 
 One thing Vitalik did point out was that [Shadow Stats was a bad source of data](http://azizonomics.com/2013/06/01/the-trouble-with-shadowstats/), for which I thank him.   That said, I still believe that the CPI and the cited [Billion Prices Project](http://bpp.mit.edu/usa/) is an equally bad source of data.  There are three primary reasons all of these CPI measurements are flawed.
 
-1. They exclude entire asset classes that have experienced the greatest inflation (stock market) 
+1. They exclude entire asset classes that have experienced the greatest inflation ([stock market]({% post_url 2015-01-03-Should-stocks-be-included-in-the-CPI %}) 
 2. They fail to account for economic growth that would normally lead to falling prices 
 3. They are fully centralized and lack a consensus process.
 
