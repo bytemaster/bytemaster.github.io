@@ -15,6 +15,7 @@ After reading the article I came away feeling like something was off.  At first 
 ## Principles Matter 
 
 I am a very principled individual and am not easily impressed with fancy math.  I like the Austrian approach to economics because it is an approach based upon principles and deductive/inductive reasoning.   When someone dives into set theory and calculus to describe human behavior I tend to role my eyes.  All of that mathematical complexity masks relatively simple mistakes while bamboozling the average guy who cannot follow an argument from the beginning to the conclusion.    I am a smart guy with a background in math and computer science, but when economists bring out math great big red flags go up in my mind.  It almost seems like math is a fancy “appeal to authority” because if you cannot follow the math most people assume it is accurate, representative, and authoritative in its conclusion. 
+
 Lets start with some basic economic principles I follow:
 
 1. All value is perceived value 
