@@ -46,7 +46,7 @@ The result of attempting to assess changes in perceived value as a result of a v
 
 It is the subtle conversion from subjective value to objective value that is often overlooked by economists when they start trotting out the mathematical equations.   They end up drawing conclusions that government spending can produce wealth and grow the economy despite the necessity for non-voluntary, coerced, trade.   
 
-Economists that go down the path of maximizing value for all of society inevitably make the mistake of attempting to measure value objectively.   They end up attempting to aggregate changes in value and optimize the allocation of resources by means other than voluntary trade.  In effect it almost always turns into an “end justifies the means” thinking. 
+Economists that go down the path of maximizing value for all of society inevitably make the mistake of attempting to measure value objectively.   They end up attempting to aggregate changes in value and optimize the allocation of resources by means other than voluntary trade.  In effect it almost always turns into “end justifies the means” thinking. 
 
 ## Challenges of Being an Austrian Economist
 
