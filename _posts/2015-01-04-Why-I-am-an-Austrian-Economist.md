@@ -28,7 +28,7 @@ Lets start with some basic economic principles I follow:
 
 These principles are all compatible with my [Golden Principle]({% post_url 2014-12-16-Golden-Principle %}) which states:
 
-> Do not do unto others what you do not what others doing unto you.
+> Do not do unto others what you do not want others doing unto you.
 
 Where things get interesting is when economists draw conclusions that appear to justify a violation of the Golden Principle.    For example, drawing the conclusion that using coercion or economic slight of hand to force a trade would be beneficial for society as a whole.   Based upon the violation of the Golden Principle I know there has been a mistake made in the economic reasoning and can begin my search for it.     It is a little bit like knowing you made a mistake multiplying two positive numbers when the result is negative.   
 
@@ -50,7 +50,7 @@ Economists that go down the path of maximizing value for all of society inevitab
 
 ## Challenges of Being an Austrian Economist
 
-Absent the use of math, an Austrian economist is left to produce written arguments subject to all of the imprecision of the english language.  Written arguments are easily misunderstood, impossible to calculate, and are often imperfect expressions of a deeper understanding.   When entering a discussion with mainstream economists the Austrian approach is often accused of “hand waving” and imprecision and their arguments are picked apart on technicalities and corner cases.  
+Absent the use of math, an Austrian economist is left to produce written arguments subject to all of the imprecision of the English language.  Written arguments are easily misunderstood, impossible to calculate, and are often imperfect expressions of a deeper understanding.   When entering a discussion with mainstream economists the Austrian approach is often accused of “hand waving” and imprecision and their arguments are picked apart on technicalities and corner cases.  
 
 When an Austrian is faced with a bunch of equations with custom operators and layers and layers of implied meaning it becomes much more difficult to debunk because even if the Austrian could identify the flaw in the abstractions, attempting to explain it would take far more time than the average man is willing to sit through.   The result is that mainstream economists ride on the appeal to mathematical authority and straw man attacks while the Austrian is forced to refine and clarify his reasoning even as his words are twisted and misrepresented at every turn.  
 
@@ -58,22 +58,7 @@ Given two people with theories, one with equations and one without, the one with
 
 ## Economics and Crypto Currency 
 
-A crypto-currency is effectively an economic experiment and if the economics of the system are not sound then the experiment will eventually give way to the economic laws of nature.   Bitcoin, Ripple, BitShares, Nxt, Ethereum, and Maidsafe are the leading crypto-currency projects and each of them has very different economic foundations.   
-
-<a href="http://www.amazon.com/gp/product/8189833332/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8189833332&linkCode=as2&tag=bytesblog-20&linkId=7HB6X4LYRBDPXWY4"><img style="float:left; margin-right:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8189833332&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=8189833332" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-Within the Bitcoin community you will find a vast array of opinions on how mining and cost of production give the Bitcoins value.    This is known as the [cost of production theory of value](http://en.wikipedia.org/wiki/Cost-of-production_theory_of_value).    You will find countless debates on whether or not Bitcoin is inflationary or deflationary and the relative value of inflation vs deflation.     Perhaps the single biggest belief that keeps people on the Bitcoin bandwagon is that its value is derived from Proof of Work and that paying miners is not a cost to the Bitcoin holder.   
-
-One thing we can say for certain is that proof of work is slowly killing Bitcoin and all alt-coins that depend upon it.   7 of the top 10 crypto-currencies have abandoned proof of work and those that remain have been slowly falling for the past year.   
-
-Ethereum is backed by people like Vitalik who is very much a math and equations kind of guy.  I have never met any other person who would start using variables and equations to describe ideas in the course of a verbal discussion.  This mindset makes him a very good technologist, cryptographer and teacher, but makes him a poor economist by Austrian standards.   He is naturally inclined to think in mathematical terms and thus rejects Austrian economics.   This ultimately shows up in his design of Etheruem and attempts at creating stable currencies or pegged currencies.   Ethereum will launch with Proof of Work and then transition away from it in a future version.  A lack of understanding of Austrian economics on behalf of the Ethereum team has significantly delayed their decision to eventually abandon proof of work.  It will probably come back to haunt them again and again in subtle ways.    
-
-I am not familiar with the economic beliefs of the people behind Ripple, but it almost doesn’t matter.   Ripple is not attempting to do anything other than replace the accounting and settlement systems of banks.  Their XRP token is presented as nothing more than a scarce resource to prevent transaction spam.   Until they decide to venture into the world of decentralized pegged assets that are mostly trust free their view of economics is almost irrelevant.  At the very least their design does not have obvious economic flaws like Bitcoin.  
-
-The founders of Nxt have their own unique take on economics that is irrationally afraid of a deflationary currency.  This implies they buy into the anti-deflation propaganda of mainstream economists.  
-
-The founders of Maidsafe have explicitly told me that they don’t know or understand economics at all.  They have designed a system based upon a combination of economic theories that are similar to Bitcoin’s cost-of-production theory.  The quantity of their coins grows with the number of resources contributed to their network.   
-
-In general you will find countless economic fallacies promoted among the leaders of the major crypto projects.  These economic fallacies ultimately end up harming projects and preventing them from achieving their long-term goals.   
+A crypto-currency is effectively an economic experiment and if the economics of the system are not sound then the experiment will eventually give way to the economic laws of nature.   Bitcoin, Ripple, BitShares, Nxt, Ethereum, and Maidsafe are the leading crypto-currency projects and each of them has very different economic foundations.  
 
 <a href="http://www.amazon.com/gp/product/094546620X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=094546620X&linkCode=as2&tag=bytesblog-20&linkId=EJRP5OVQIOYMMB2W"><img style="float:right; margin-left:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=094546620X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=094546620X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 As far as I can tell BitShares is the only system that explicitly tries to be fully consistent with Austrian economics and the principles of voluntary trade.   It is the only system designed around Austrian economic principles rather than economic math.  BitShares was the first project to provide the [company metaphor]({% post_url 2014-12-20-BitShares-as-a-Bank %}) for understanding both the value of the coins, the cost of mining, and the impact of and morality of dilution (vs inflation).    BitShares is the first project to recognize the decreasing marginal utility of each additional degree of decentralization.   BitShares was the among the first to recognize the the economic inevitability of centralization in all systems.   
