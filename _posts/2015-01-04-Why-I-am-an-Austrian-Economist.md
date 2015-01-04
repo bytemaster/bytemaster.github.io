@@ -14,7 +14,7 @@ After reading the article I came away feeling like something was off.  At first 
 
 ## Principles Matter 
 
-I am a very principled individual and am not easily impressed with fancy math.  I like the Austrian approach to economics because it is an approach based upon principles and deductive/inductive reasoning.   When someone dives into set theory and calculus to describe human behavior I tend to role my eyes.  All of that mathematical complexity masks relatively simple mistakes while bamboozling the average guy who cannot follow an argument from the beginning to the conclusion.    I am a smart guy with a background in math and computer science, but when economists bring out math great big red flags go up in my mind.  It almost seems like math is a fancy “appeal to authority” because if you cannot follow the math most people assume it is accurate, representative, and authoritative in its conclusion. 
+I am a very principled individual and am not easily impressed with fancy math.  I like the Austrian approach to economics because it is an approach based upon principles and deductive/inductive reasoning.   When someone dives into set theory and calculus to describe human behavior I tend to roll my eyes.  All of that mathematical complexity masks relatively simple mistakes while bamboozling the average guy who cannot follow an argument from the beginning to the conclusion.    I am a smart guy with a background in math and computer science, but when economists bring out math great big red flags go up in my mind.  It almost seems like math is a fancy “appeal to authority” because if you cannot follow the math most people assume it is accurate, representative, and authoritative in its conclusion. 
 
 Lets start with some basic economic principles I follow:
 
@@ -50,11 +50,11 @@ Economists that go down the path of maximizing value for all of society inevitab
 
 ## Challenges of Being an Austrian Economist
 
-Absent the use of math, an Austrian economist is left to produce written arguments subject to all of the imprecision of the english language.  Written arguments are easily misunderstood, impossible to calculate, and are often imperfect expressions of a deeper understanding.   When entering a discussion with mainstream economists the Austrian approach is often accused of “hand waiving” and imprecision and their arguments are picked apart on technicalities and corner cases.  
+Absent the use of math, an Austrian economist is left to produce written arguments subject to all of the imprecision of the english language.  Written arguments are easily misunderstood, impossible to calculate, and are often imperfect expressions of a deeper understanding.   When entering a discussion with mainstream economists the Austrian approach is often accused of “hand waving” and imprecision and their arguments are picked apart on technicalities and corner cases.  
 
 When an Austrian is faced with a bunch of equations with custom operators and layers and layers of implied meaning it becomes much more difficult to debunk because even if the Austrian could identify the flaw in the abstractions, attempting to explain it would take far more time than the average man is willing to sit through.   The result is that mainstream economists ride on the appeal to mathematical authority and straw man attacks while the Austrian is forced to refine and clarify his reasoning even as his words are twisted and misrepresented at every turn.  
 
-Given two people with theories, one with equations and one without, the one with equations is automatically assumed to be more scientific and through by most people.   As an Austrian who's founding principles forbid the use of mathematical operations on value in almost all circumstances it becomes a real challenge.  
+Given two people with theories, one with equations and one without, the one with equations is automatically assumed to be more scientific and thorough by most people.   As an Austrian who's founding principles forbid the use of mathematical operations on value in almost all circumstances it becomes a real challenge.  
 
 ## Economics and Crypto Currency 
 
