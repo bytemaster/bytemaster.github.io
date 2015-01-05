@@ -68,3 +68,9 @@ On the other hand, many users will want a direct conversion from BitUSD to fiat 
 
 Once this happens then BitUSD is effectively as good as USD with a small fixed conversion fee.  This fee will likely be no more than the withdraw and deposit fees that current exchanges charge.  BitShares will be a fully operation exchange with many banking partners and no limits.   At no point in time will user deposits ever be subject to default or confiscation by an exchange or gateway.   A truly decentralized exchange will have been realized and the original vision of BitShares complete.  
 
+## 2015: The Year of the Decentralized Bitcoin Exchange
+
+I recently did an interview with Max Wright of [BitShares.TV](http://bitshares.tv) about this topic that is worth checking out.
+
+<iframe width="620" height="349" src="//www.youtube.com/embed/TtCVRIwcBYU" frameborder="0" allowfullscreen></iframe>
+
