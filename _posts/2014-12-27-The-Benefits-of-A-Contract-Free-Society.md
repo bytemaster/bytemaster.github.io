@@ -4,7 +4,7 @@ title:  "The Benefits of a Contract Free Society"
 categories: article
 author: "Daniel Larimer"
 ---
-Most libertarians think about contracts as the fundamental building block of a free society.   I take a relatively unique position that contracts as we know them are the Achilles heal of attempts to form a libertarian society.   I go so far as to suggest that we need a contract-free society because enforcement of contracts presents a significant challenge to the [Golden Principle]({% post_url 2014-12-16-Golden-Principle %})  upon which my entire world view is based.
+Most libertarians think about contracts as the fundamental building block of a free society.   I take a relatively unique position that contracts as we know them are the Achilles heel of attempts to form a libertarian society.   I go so far as to suggest that we need a contract-free society because enforcement of contracts presents a significant challenge to the [Golden Principle]({% post_url 2014-12-16-Golden-Principle %})  upon which my entire world view is based.
 
 
 ### What is a Contract?
@@ -46,7 +46,7 @@ If Alice lends money to Bob under the condition that it be repaid in a year, the
 
 Existing law would contend that Bob had “promised to pay” and thus set up the “expectation” of Alice that she would receive money.   As we can see such rationale breaks down if applied consistently to all promises and expectations when it comes to enforceability of a contract.
 
-Suppose that Bob promised to marry Alice in one year in a  written contract.  If Bob jilts Alice does Alice have the legal right to compel Bob to marry Alice?   Under the promise theory of contracts this would be the logical conclusion.   Our current legal system even enforces a mild version of this by forcing one party to pay damages to the other for losses incurred due to breaking the promise.   While forcing one party to pay damages may be less objectionable, it is derived from the same invalid principle.
+Suppose that Bob promised to marry Alice in one year in a  written contract.  If Bob jilts Alice, does Alice have the legal right to compel Bob to marry Alice?   Under the promise theory of contracts this would be the logical conclusion.   Our current legal system even enforces a mild version of this by forcing one party to pay damages to the other for losses incurred due to breaking the promise.   While forcing one party to pay damages may be less objectionable, it is derived from the same invalid principle.
 
 Lets return to Rothbard: 
 
@@ -88,7 +88,7 @@ With smart contracts it is also fairly easy to automate the change of ownership 
 
 You can think of an automated forced transfer of digital assets as a form of coordinated shunning.   Everyone refuses to acknowledge the prior purchasing power of one individual and voluntarily honors the purchasing power of a new individual.    
 
-Imagine if every body had a bond and arbitration agent on file with the block chain.  Imagine everyone refused to do business with someone who had an unpaid judgement against them because their own bond was at risk if they did.  
+Imagine if everybody had a bond and arbitration agent on file with the block chain.  Imagine everyone refused to do business with someone who had an unpaid judgement against them because their own bond was at risk if they did.  
 
 BitShares is the foundation of a non-violent consensus on property rights that replaces the use of force to physically reallocate property.    
 
@@ -98,7 +98,7 @@ In a contract free society agreements are documented but everyone understands th
 
 So long as we insist on living in a world of enforceable contracts we will continue to empower the very beast that enslaves us.  We are operating on the implicit expectation of the right to use force and in turn manifest a society built on violence and coercion rather than love.
 
-You cannot change others, but you can change yourself.   I specifically avoid committing to legally binding contracts when ever possible.  It can be very challenging for some people who feel the need to reserve the right to sue you and coerce you into fulfilling your promises.   In general these are the type of people we should be shunning.  Every time we give business to someone who demands a legal contract we are supporting our own enslavement.   So I challenge you to release your need to control others and instead learn how to interact with others entirely without any legal obligations what-so-ever.  
+You cannot change others, but you can change yourself.   I specifically avoid committing to legally binding contracts whenever possible.  It can be very challenging for some people who feel the need to reserve the right to sue you and coerce you into fulfilling your promises.   In general these are the type of people we should be shunning.  Every time we give business to someone who demands a legal contract we are supporting our own enslavement.   So I challenge you to release your need to control others and instead learn how to interact with others entirely without any legal obligations what-so-ever.  
 
 
 Discuss this subject at [bitsharestalk.org](https://bitsharestalk.org/index.php?topic=12696).
