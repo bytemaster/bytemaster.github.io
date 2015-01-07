@@ -37,9 +37,12 @@ a level playing field.
 
 On Wall Street traders go to great length to get as physically close to the exchange as possible because 
 their trading bots are making decisions so fast that the speed of light becomes a real limitation. A
-decentralized exchange is location neutral, everyone has an equal opportunity.
+decentralized exchange is location neutral and gives everyone has an equal opportunity.
 
 ## Secure
+Every Dollar, Euro, and ounce of gold held on the BitShares exchange is backed by up to 3 times the
+reserves of traditional centralized exchanges.  The traditional banking system has long prac 
+
    Up to 3 times the reserves of traditional 
    exchanges without any counter-party risk.
 
