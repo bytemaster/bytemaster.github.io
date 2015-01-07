@@ -8,8 +8,7 @@ The centralized exchanges the world has known throughout history have proven unr
 untrustworthy time and again.  Whether it is [MF Global](http://www.forbes.com/sites/francinemckenna/2012/07/16/auditors-all-fall-down-pfgbest-and-mf-global-frauds-reveal-weak-watchdogs/), [Mt. Gox](http://www.wired.com/2014/03/bitcoin-exchange/), or [BitStamp](http://www.coindesk.com/bitstamp-claims-roughly-19000-btc-lost-hot-wallet-hack/) we have seen 
 all of the perils of allowing a 3rd party to hold your money. It doesn't matter how
 big they are or how many auditors, regulators, or insurers are involved every kind of fraud, 
-abuse, and theft occurs on a daily basis on centralized banks and exchanges around the world.  
-It is time for a change. Today I would like to introduce the benefits you get by using the worlds first fully decentralized exchange, BitShares.
+abuse, and theft occurs on a daily basis on centralized banks and exchanges around the world.  It is time for a change. Today I would like to introduce the benefits you get by using the worlds first fully decentralized exchange, BitShares.
 
 ## Decentralized
 Decentralization gives BitShares robustness against failure.  When a centralized exchange is
