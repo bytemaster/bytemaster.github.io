@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Daniel Larimer and I am the founder of BitShares. Rather than tell you about myself, I will instead quote an article written about my in [yBitcoin](http://www.ybitcoin.net/people/VDxBpDQAADQA2Dg_/daniel)
+My name is Daniel Larimer and I am the founder of BitShares. Rather than tell you about myself, I will instead quote an article written about me in [yBitcoin](http://www.ybitcoin.net/people/VDxBpDQAADQA2Dg_/daniel)
 
 # Daniel Larimer -  A Passion for Freedom via Decentralization
 
