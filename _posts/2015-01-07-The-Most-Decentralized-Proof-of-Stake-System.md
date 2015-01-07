@@ -71,4 +71,7 @@ Based upon the analysis in this post, it is clear that only Delegated Proof of S
 
 At the end of the day the numbers and economics do not lie.   BitShares with Delegated Proof of Stake is the most decentralized network by far.   
 
+<hr/>
+Update:  Research into [Nxt has shown they have about 250 unique forgers at any time](https://nxtforum.org/general/network-analysis/).  Unfortunately no information was available about the distribution of blocks among those 250 due to wealth disparities nor about the profitability of those forgers.   If the forgers are not profitable then it is not sustainable.   
+
 
