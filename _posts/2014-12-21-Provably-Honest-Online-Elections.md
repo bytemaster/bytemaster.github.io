@@ -26,17 +26,24 @@ There is no way to know whether or not the machines are accurately counting all 
 
 ### The Real Problem 
 
-The reason provably honest elections are not possible under existing systems is because the very requirements placed upon the election process are flawed.  I would go so far as to suggest that the “definition” of fair voting systems was crafted specifically to enable elections to be stolen regardless of what technique you use.   If we want to create a provably honest system then we must first review the requirements that most people place on any voting solution:
+The reason provably honest elections are not possible under existing systems is because the most important requirement for a fair election is missing.  The current requirements are:
 
-### Requirement #1 - Privacy 
+### Requirement #2 - Privacy 
 
-Elections are normally held because there is a controversial topic that needs to be decided.  Peer pressure could bias election results if voters are unable to keep their vote a secret.  Privacy is a good requirement and can be maintained in a provably honest system.  
+Privacy means your identity and whom you voted for is hidden from everyone, including the system, by default.  Peer pressure could bias election results if voters are unable to keep their vote a secret.  Privacy is uncontrovertibly a good requirement and should be part of a provably honest system.
 
-### Requirement #2 - Unprovable Secret Ballot 
+### Requirement #3 - Unprovable Secret Ballot (anonymity)
 
-This requirement is the one that undermines the ability to create provably honest voting solutions.   The idea here is that all ballots are anonymous and may contain no identifying information that would allow someone to prove who they voted for.   If you cannot prove to someone else that your vote was cast a certain way, how in the world are you going to prove it to yourself?   
+Anonymity differs from privacy by making it impossible for a voter to prove whom they voted for.  It enforces privacy rather than making it a choice.  Anonymity in give thelections is designed to protect against violent coertion of voters and vote buying.  If voters cannot prove to the coercer or buyer whom they voted for, it makes it harder to attack the system in those ways.  But this requirement comes with a problem.  If you cannot prove to someone else that your vote was counted a certain way, how are you going to prove it to yourself?
 
-If we remove requirement #2, then, and only then, are provably honest elections possible.  It actually becomes trivial and can be implemented with both paper and electronic systems.  Every voter would know their secret ballot number and every voter would be free to examine all ballots.    A voter would know their vote was included because they could uniquely identify their ballot and verify the vote was cast.  
+### The missing requirement
+
+### Requirement #1 - Ability to Prove the Votes were Fairly Counted
+
+Without this there is no real election.  The other requirements are worthless without this.  We can achieve provbly fair counting of votes by sacrificing a much less important requirement, requirement #3.  Requirement #3 should not actually be an election requirement at all and  removing it brings new advantages.  Remember with requirement #2 voting details are still private unless you chose to reveal them or are forced to.
+
+
+After removing equirement #3, then, and only then, are provably honest elections possible.  It actually becomes trivial and can be implemented with both paper and electronic systems.  Every voter would know their secret ballot number and every voter would be free to examine all ballots.    A voter would know their vote was included because they could uniquely identify their ballot and verify the vote was cast.  
 
 ### The Irrational Justifications for Unprovable Ballots 
 
@@ -44,13 +51,11 @@ The requirement for unprovable ballot is not arbitrary and if you attempt to rem
 
 Voter coercion would happen if your union boss, friends, political party, church or local gang threaten to harm you unless you provide proof that you voted a certain way.   For the purpose of this article I will assume physical harm is already against the law and moral code of society and that society as a whole would not tolerate wide spread open violent coercion of voting.   
 
-Any organization that can violently coerce voters on such a wide scale will have the power to coerce the elected officials and government employees after they are elected.  The general population will know the outcome of the election is not legitimate and that the government is not legitimate.  This would entirely negate the purpose of elections which is to give the government the appearance of legitimacy and pacify the population.   Without the appearance of legitimacy the government loses power and will eventually be overthrown.
+Any organization that can violently coerce voters on such a wide scale will have the power to coerce the elected officials and government employees after they are elected.  The general population will know the outcome of the election is not legitimate and that the government is not legitimate.  This would entirely negate the purpose of elections which is to give the government legitimacy and win the support of the population.   Without legitimacy, or at least the appearance of legitimacy, the government loses power and will eventually be overthrown.
 
 Attempting to avoid voter coercion through the use of unprovable ballots is a red herring.  It is just as easy to coerce likely detractors to stay home where their vote can provably not be counted.  Whether you force someone to vote for you or prevent them from voting against you the outcome is almost the same. 
 
-Non violent coercion is another option that people fear.  This takes the form of shunning. You can be fired from your job, kicked out of your church, or divorced by your spouse.   There is nothing morally wrong with shunning; however, it can still be a powerful means of getting others to behave against their own beliefs.    
-
-Shunning would not change the outcome of an election because if the shunners are in the minority then their shunning power is limited, if they are in the majority then they will probably win the election anyway.  Shunning can work both ways and in fact is the very thing that will prevent people from even asking to know your vote.   A society that shuns anyone who demands proof of your vote is a society where an unprovable ballot system is unnecessary.  Considering the wide spread social acceptance of the need for secret ballots, it is unlikely to become socially acceptable to ask others to prove who they voted for.   In fact it could be as taboo as asking someone for a naked photo as a condition of employment.  
+Non violent coercion is another option that people fear.  For example, shunning.  Shunning can be a powerful means of getting others to behave against their own beliefs.  However, shunning can work both ways and in fact is the very thing that will prevent people from even asking to know your vote. Considering the wide spread social acceptance of the need for secret ballots, it is unlikely to become socially acceptable to ask others to prove who they voted for. 
 
 ### Vote Buying
 
@@ -66,13 +71,18 @@ So we can see that for all practical purposes hard evidence of your vote is not 
 
 I have already shown that vote buying cannot be stopped, but perhaps trying to prevent it is another fallacy.  What is wrong with selling your vote anyway?   Perhaps there is something wrong with trying to stop someone from selling their vote!   
 
-People generally accept that no one may judge your reasons for voting as you do.  It you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
+Vote buying would greatly increase voter participation and remove economic barriers to becoming politically informed, making elections fairer.  Voters would be directly incentivised to find out about the issues so they can decide whether to sell their vote or not, increasing participation.  They would also be able to collect a reward for voting the same way they would otherwise have done anyway, rewarding participation.
+
+Those who spend the time to get informed are currently punished by the votes of the less informed who spent less time understanding the issues.  The less informed voters are also more easily manipulated by propaganda.  If someone understands less information about a topic it is easier to deceive them.  The less informed voters are often stuck in that position due to economic reasons.  With vote buying the less informed have a ladder they are paid to climb, allowing them spend the time to become informed by being paid to make the decision, bringing them into the political process.
+
+Maintaining and developing political awareness need not be an exclusory expense.  Everyone can afford to spend the time to learn about the issues if there is a reward for casting a vote.
+
+In addition, people generally accept that no one may judge your reasons for voting as you do.  It you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
 
 In reality almost every election is about buying votes.  Politicians make promises to redistribute tax payer money in order to win votes.   Most people who vote for a politician believe the promise and thus a politician buys a vote with an IOU that is easily defaulted on without consequence even though the vote is irreversible.   A politician that pays you up front is at least honest and you are certain to get some benefit.   
 
-This brings up another reality about vote buying.  Whether you pay before the vote or after the vote, one party must trust the other.   If the parties attempt to draft a contract then it would be an unenforceable contract under the government courts.    Without enforceability of the contract, vote buying falls back to the same trust-based system we have today.  The parties would have to resort to crypto-currency smart contracts to have any kind of assurance.
+A vote can be viewed as a property right.  It is yours to control and cast as you see fit.  Vote buying therefore strengthes democracy while strenghtening personal freedoms at the same time.
 
-A vote can be viewed as a property right.  It is yours to control and cast as you see fit.  If you attempt to restrict others from free exercise of their right then you become an aggressor.  
 
 ### Direct Vote Buying is Uneconomical 
 
@@ -80,7 +90,7 @@ Even after showing that vote buying cannot be stopped and that attempting to sto
 
 Paying someone to vote against their own best interest is far more expensive than deceiving them into believing that it is in their interest.   If I know a candidate will raise my taxes by $1000 per year, it will take more than $1000 to convince me to sell my vote.   On the other hand if the candidate can convince me that paying an extra $1000 is actually in my best interest then he can get my vote “for free”.    This is where the art of propaganda comes to play.  
 
-Attempting to pass a $1000 per year tax increase on a population largely against it would cost billions or trillions of dollars to “buy off” which would effectively negate the tax increase.  Instead politicians convince you to vote for healthcare while understating the costs.   In the game of propaganda it comes down to a battle of money.   A well funded candidate can “buy” far more votes with a propaganda campaign than he could with direct cash payouts.  
+Attempting to pass a $1000 per year tax increase on a population who are largely against it would cost billions or trillions of dollars to “buy off” which would effectively negate the tax increase.  Instead politicians convince you to vote for healthcare while understating the costs.   In the game of propaganda it comes down to a battle of money.   A well funded candidate can “buy” far more votes with a propaganda campaign than he could with direct cash payouts.  
 
 Once again we see that there is no compelling reason to make votes “unprovable”.  I would go so far as to say that the arguments used to defend the unprovable ballot are an example of well executed propaganda designed to convince voters to reject the only truly accountable voting systems out there and support systems that are more easily corrupted in undetectable ways.
 
@@ -113,7 +123,7 @@ Every user will now have the ability to independently verify that every ballot i
 
 ### Secure at the Informational Level
 
-I have only scratched the surface on provably honest elections and will probably provide some follow up posts that addresses this topic in greater depth.   For starters I would like to explore the notion that this voting system isn’t about open source, it is about open information.   You don’t need to trust the hardware, software, or any other product provided by a third party because the publicly available information is enough to validate the election.  You could build your own hardware, write your own software, and verify every byte of information yourself.  This goes far beyond open source because there are no “secrets” that need to be guarded for the system to be secure.
+I have only scratched the surface on provably honest elections and will provide some follow up posts that addresses this topic in greater depth.   For starters I would like to explore the notion that this voting system isn’t about open source, it is about open information.   You don’t need to trust the hardware, software, or any other product provided by a third party because the publicly available information is enough to validate the election.  You could build your own hardware, write your own software, and verify every byte of information yourself.  This goes far beyond open source because there are no “secrets” that need to be guarded for the system to be secure.
 
 ### Hacking Individual Computers 
 
