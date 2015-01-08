@@ -4,7 +4,7 @@ title:  "The most Decentralized Proof of Stake (POS) system."
 author: "Daniel Larimer"
 categories: article
 ---
-All too often I see people making the claim that Delegated Proof of Stake is too centralized, but centralization is all relative.  Today I would like to explore the meaning of decentralization as it relates to Proof of Stake systems and compare the top 3 approachs: BitShares, Nxt, and Peercoin.  My aim is to be as objective as possible.
+All too often I see people making the claim that Delegated Proof of Stake is too centralized, but centralization is all relative.  Today I would like to explore the meaning of decentralization as it relates to Proof of Stake systems and compare the top 3 approaches: BitShares, Nxt, and Peercoin.  My aim is to be as objective as possible.
 
 ## What is Proof of Stake? 
 
@@ -57,7 +57,7 @@ For the sake of comparison I am going to assume Nxt, Peercoin, and BitShares all
 
 With delegated proof of stake the network can remain secure even if the currency was evenly distributed among 1 million users.   These million users would delegate to the top 101 which in theory could all have 100% approval and thus require someone to buy up 51% of the stake in order to take over the network.    
 
-Only delegate proof of stake has the power to leverage the stake of millions of individual users to secure the network.  Nxt, Peercoin, and likely Ethereum all depend upon a wealthy elite with enough stake to profitably validate the network.  
+Only delegated proof of stake has the power to leverage the stake of millions of individual users to secure the network.  Nxt, Peercoin, and likely Ethereum all depend upon a wealthy elite with enough stake to profitably validate the network.  
 
 ## Profits Don’t Matter 
  
