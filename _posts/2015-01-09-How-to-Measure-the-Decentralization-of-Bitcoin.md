@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Measure the Decentralization of BItcoin"
+title:  "How to Measure the Decentralization of Bitcoin"
 author: "Daniel Larimer"
 categories: article 
 ---
