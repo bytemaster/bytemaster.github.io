@@ -1,36 +1,26 @@
 
-<div class="featured-post" >
 <div><!-- class="profile {% if page.featured == true %} featured {% endif %}"> -->
-   {% if page.author_image %}
-      <img src="{{ page.author_image }}" class="profileimage" alt="user">
-   {% else %}
-      {% if site.author_image != "" %}<img src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
-   {% endif %}
+   {% if site.author_image != "" %}<img style="margin-bottom: 10px" src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
+	 <h1 style="margin:5px">Welcome!</h1>
+   <p style="margin: 5px">{{ site.author_bio }}</p>
+   <p style="margin: 5px">
+        The purpose of this blog is to help <a href="{% post_url 2014-12-19-How-to-Create-a-Free-Society %}">create a free society</a> by encouraging people to <a href="{% post_url 2014-12-22-Join-the-BitShares-Community %}">join our community</a> which is centered around <a href="{% post_url 2014-12-18-What-is-BitShares %}">Bitshares</a>, a <a href="{% post_url 2015-01-05-The-Future-of-Crypto-Currency-Exchanges %}">next generation fully decentralized crypto-currency exchange</a>.  I use <a href="{% post_url 2015-01-06-Why-I-am-an-Austrian-Economist-Take-2 %}">Austrian Economics</a> to
+        engineer the economic incentives which make freedom and <a href="{% post_url 2014-12-16-Golden-Principle %}">non-violence</a>
+ profitable.
 
-   {% if page.author %} 
-      <h4>{{ page.author }}</h4>
-   {% else %}
-      <h4>{{ site.author_name }}</h4>
-   {% endif %}
-
-   {% if page.author_bio %} 
-      <p>{{ page.author_bio }}</p>
-      <hr>
-   {% else %}
-   <p>{{ site.author_bio }}</p>
    <center>
-     <a href="{{ site.url }}/feed.xml"  class="smallbutton lightgray"><i class="fa fa-rss"></i>RSS feed</a>
+      <a href="{% post_url  2014-12-22-Join-the-BitShares-Community %}"><img src="/media/join_now_button.jpg"/></a>
+      <br/>
    </center>
       <hr>
-      {% endif %}
-
 
 </div>
+<div class="featured-post" >
 
 
 <aside class="mobile-sidebar">
    <center>
-   <a href="http://www.amazon.com/gp/product/B00QUIWHR0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QUIWHR0&linkCode=as2&tag=bytesblog-20&linkId=CIIMS7ERLVW6BJTS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QUIWHR0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=B00QUIWHR0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+   <a onclick="BTSW.action('clicked bitshares101!', 'sidebar');" href="http://www.amazon.com/gp/product/B00QUIWHR0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QUIWHR0&linkCode=as2&tag=bytesblog-20&linkId=CIIMS7ERLVW6BJTS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QUIWHR0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=B00QUIWHR0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
    </center>
 
 

@@ -10,7 +10,9 @@ cooperation.  Our goal is to [create a free society]({% post_url 2014-12-19-How-
 systematically replacing the role of government with free market, non-violent alternatives while making everyone
 in the community a ton of money.
 
-In my post titled ["How to create a free society"]({% post_url 2014-12-19-How-to-Create-a-Free-Society %}) I laid the high level roadmap.  Our freedom or lack thereof is the result of millions of actions (or inactions) of millions of people.  Some actions help enslave your fellow man while others help free him.  One of the easiest ways to help free your fellow man is to join our community.  It's free. 
+In my post titled ["How to create a free society"]({% post_url 2014-12-19-How-to-Create-a-Free-Society %}) I laid the high level roadmap.  Our freedom or lack thereof is the result of millions of actions (or inactions) of millions of people.  Some actions help enslave your fellow man while others help free him.
+
+One of the easiest ways to help free your fellow man is to join our community.  It's free. 
 
 ## Ways to Join our Community
 
@@ -20,7 +22,7 @@ The [BitShares forum](https://bitsharestalk.org) is the center of our community 
 
 ### 2) Download BitShares and Register an Account
 
-The next step toward joining our community is to actually [download a BitShares wallet](http://github.com/BitShares/bitshares/releases) and register an account on the BitShares block chain itself.  You should do this even if you have not purchased any bitshares (BTS) or other BitShares crypto assets.  Your BitShares account will become the foundation of your future crypto-identity and reputation.  It will eventually allow you to [login]({% post_url 2014-12-22-BitShares-Login %}) to various BitShares services and serve as a secure means of [communicating](todo/link_to_page_about_bitshares_mail) with fellow community members.   The full value of your BitShares account will be realized over the coming years, but there is still significant value in registering today.  
+The next step toward joining our community is to actually [download a BitShares wallet and register an account ]({% post_url 2015-01-03-How-to-Register-a-BitShares-Account %}) on the BitShares block chain itself.  You should do this even if you have not purchased any bitshares (BTS) or other BitShares crypto assets.  Your BitShares account will become the foundation of your future crypto-identity and reputation.  It will eventually allow you to [login]({% post_url 2014-12-22-BitShares-Login %}) to various BitShares services and serve as a secure means of [communicating](todo/link_to_page_about_bitshares_mail) with fellow community members.   The full value of your BitShares account will be realized over the coming years, but there is still significant value in registering today.  
 
 
 By registering today you get an opportunity to reserve a quality name before everyone else.  Older accounts have greater respect for online reputation because they are less likely to be fake.   If you register today you can prove to the world that you were an early supporter, hopefully that will carry significant street cred in a couple of years.   The very act of registering helps to tell the world that the BitShares network is growing and supported by real people.  The market will assimilate this information into a higher valuation for BitShares which in turn helps fund the ongoing development of our platform.

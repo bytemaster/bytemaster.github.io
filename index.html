@@ -18,6 +18,21 @@ layout: default
 <td>
 <section class="posts postindex wrapper">
 
+		<article style="margin-bottom:0px; padding:25px" >
+			<header>
+				<h1 style="margin:5px"><a href="">Welcome!</a></h1>
+				<div class="excerpt">
+        The purpose of this blog is to help <a href="{% post_url 2014-12-19-How-to-Create-a-Free-Society %}">create a free society</a> by encouraging people to <a href="{% post_url 2014-12-22-Join-the-BitShares-Community %}">join our community</a> which is centered around <a href="{% post_url 2014-12-18-What-is-BitShares %}">Bitshares</a>, a <a href="{% post_url 2015-01-05-The-Future-of-Crypto-Currency-Exchanges %}">next generation fully decentralized crypto-currency exchange</a>.  I use <a href="{% post_url 2015-01-06-Why-I-am-an-Austrian-Economist-Take-2 %}">Austrian Economics</a> to
+        engineer the economic incentives which make freedom and <a href="{% post_url 2014-12-16-Golden-Principle %}">non-violence</a>
+ profitable.
+  <br/>
+  <br/>
+  Follow this blog to <a href="{% post_url 2014-12-28-Where-can-blockchain-technology-take-us %}">explore where blockchain technology can take us</a>. It has the potential to free us from the <a href="{% post_url 2014-12-29-The-Socialist-Justice-System %}">Socialist Justice System</a> and help us <a href="{% post_url 2013-08-28-Own-Your-Identity-with-BitShares %}">take control of our own identity</a> while laying the foundation for <a href="{% post_url 2014-12-21-Provably-Honest-Online-Elections %}">provably honest online elections</a>. 
+  </p>
+				</div>
+			</header>
+		</article>
+
 	{% for post in paginator.posts %}
 		<article class="post {% if post.featured == true %} featured {% endif %}">
 			<header>
