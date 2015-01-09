@@ -46,7 +46,7 @@ At this point your account page should be updated to reflect that it has been re
 
 ## Backup Your Wallet
 
-I recomend backing up your wallet to one or more USB sticks and storing them in a safe location.  As long as you have access to this first backup you should be able to recover any accounts and balances that you have in the future.   Just be sure you don't forget your wallet password from the first step.
+I recommend backing up your wallet to one or more USB sticks and storing them in a safe location.  As long as you have access to this first backup you should be able to recover any accounts and balances that you have in the future.   Just be sure you don't forget your wallet password from the first step.
 
 To backup your wallet go to the *File* menu and select *Export Wallet*. It will ask you for a location to save your wallet file.  While you only have to do this once to recover your balances, I recomend that you do this periodically to avoid losing your transaction history details which are not all stored on the blockchain. 
 

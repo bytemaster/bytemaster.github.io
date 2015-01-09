@@ -95,3 +95,12 @@ This is the book convinced me to stop worshiping the constitution of the United 
 <br/>
 <br/>
 </p>
+
+##<a href="http://www.amazon.com/gp/product/1892005034/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=bytesblog-20&linkId=3ADBUM6TI2MYJXIU">Nonviolent Communication: A Language of Life</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1892005034" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/1892005034/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=bytesblog-20&linkId=RM3GSWSPMMGRZGT7"><img style="float:left;margin-right:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1892005034&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1892005034" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+I thought I as a fairly good communicator before I discovered Marshall Rosenberg, but now I know better.  I spent so much time talking about the non-aggression principle as it applied to physical aggression that it never occurred to me that speech could be violent.  I knew how I felt when people said certain things to me that 'hurt'.  I knew that I didn't like being pressured into things or blamed for something I have no control over.  After reading about Nonviolent Communication things really started to click.  It gave me a new ears to hear what those around me were saying and made it easier for me to respond in love rather than anger.  At the end of the day I found the principles behind nonviolent communication to be in alignment with my overall world view and have successfully applied it to great effect in my relationships.  
+
+
+
+
+
