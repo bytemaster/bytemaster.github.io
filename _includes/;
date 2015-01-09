@@ -1,0 +1,58 @@
+
+<div><!-- class="profile {% if page.featured == true %} featured {% endif %}"> -->
+   {% if site.author_image != "" %}<img style="margin-bottom: 10px" src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
+	 <h1 style="margin:5px">Welcome!</h1>
+   <p style="margin: 5px">{{ site.author_bio }}</p>
+   <p style="margin: 5px">
+        The purpose of this blog is to help <a href="{% post_url 2014-12-19-How-to-Create-a-Free-Society %}">create a free society</a> by encouraging people to <a href="{% post_url 2014-12-22-Join-the-BitShares-Community %}">join our community</a> which is centered around <a href="{% post_url 2014-12-18-What-is-BitShares %}">Bitshares</a>, a <a href="{% post_url 2015-01-05-The-Future-of-Crypto-Currency-Exchanges %}">next generation fully decentralized crypto-currency exchange</a>.  I use <a href="{% post_url 2015-01-06-Why-I-am-an-Austrian-Economist-Take-2 %}">Austrian Economics</a> to
+        engineer the economic incentives which make freedom and <a href="{% post_url 2014-12-16-Golden-Principle %}">non-violence</a>
+ profitable.
+
+   <center>
+      <img src="/media/join_now_button.jpg"/>
+      <br/>
+     <a href="{{ site.url }}/feed.xml"  class="smallbutton lightgray"><i class="fa fa-rss"></i>RSS feed</a>
+   </center>
+      <hr>
+
+</div>
+<div class="featured-post" >
+
+
+<aside class="mobile-sidebar">
+   <center>
+   <a onclick="BTSW.action('clicked bitshares101!', 'sidebar');" href="http://www.amazon.com/gp/product/B00QUIWHR0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QUIWHR0&linkCode=as2&tag=bytesblog-20&linkId=CIIMS7ERLVW6BJTS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QUIWHR0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=B00QUIWHR0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+   </center>
+
+
+   <h2>Featured Posts</h2> 
+   <ul style="list-style-type: none; margin: 0px;">
+   {% for post in site.posts %}
+       {% if post.featured == true %}
+         {% capture count %}{{ count | plus: '4' }}{% endcapture %}
+           <li style="margin-left: -30px;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></li>
+     {% endif %}
+   {% endfor %}
+   </ul>
+
+   <h2>Recent Posts</h2> 
+   <ul style="list-style-type: none; margin: 0px;">
+   {% for post in site.posts %}
+      {% capture count %}{{ count | plus: '4' }}{% endcapture %}
+        <li style="margin-left: -30px;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></li>
+   {% endfor %}
+   </ul>
+
+   <br/>
+   <br/>
+
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+   <!-- sidebar -->
+   <ins class="adsbygoogle"
+        style="display:inline-block;width:300px;height:600px"
+             data-ad-client="ca-pub-9474135287142327"
+                  data-ad-slot="5050361693"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+</aside>
