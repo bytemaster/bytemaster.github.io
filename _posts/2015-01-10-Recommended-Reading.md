@@ -80,3 +80,18 @@ This book presents an incredibly compelling case for eliminating intellectual pr
 <br/>
 <br/>
 </p>
+
+## <a href="http://www.amazon.com/gp/product/0452011876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452011876&linkCode=as2&tag=bytesblog-20&linkId=VANU6EL2PLN7LREO">Atlas Shrugged</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=0452011876" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/0452011876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452011876&linkCode=as2&tag=bytesblog-20&linkId=DAAKNB7GPDMQTSZO"><img style="float:left;margin-right:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0452011876&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=0452011876" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+I have a lot of respect for the philosophy of "shrugging" and abandoning those that consume more than they produce.  This is a large part of what BitShares is about, creating an alternative community much like Galt's Gulch.  I don't agree with everything in the book, but found it to be quite refreshing.   If only we could convince the best and brightest to abandon the current economic system and only associate with members of the BitShares community.  
+<br/>
+<br/>
+
+## <a href="http://www.amazon.com/gp/product/1938357000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1938357000&linkCode=as2&tag=bytesblog-20&linkId=FTV3RHKPNRPUMRKN">No Treason: The Constitution of No Authority</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1938357000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/1938357000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1938357000&linkCode=as2&tag=bytesblog-20&linkId=VJKJBFOWNZGENAJD"><img style="float:left;margin-right:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1938357000&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1938357000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+This is the book convinced me to stop worshiping the constitution of the United States and abandon the notion that democracy is a legitimate form of government.  You will see that I only support non-binding polling of public opinion.  We are working on technologies to provide [provably honest online elections]({% post_url 2014-12-21-Provably-Honest-Online-Elections %}) for the sole [purpose of accurately measuring public opinion]({% post_url 2014-12-20-Aggregate-Public-Opinion-Matters %}).
+<p>
+<br/>
+<br/>
+</p>
