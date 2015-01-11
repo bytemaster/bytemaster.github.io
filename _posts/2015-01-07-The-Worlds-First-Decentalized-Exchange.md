@@ -34,7 +34,7 @@ a level playing field.
 
 On Wall Street traders go to great length to get as physically close to the exchange as possible because 
 their trading bots are making decisions so fast that the speed of light becomes a real limitation. A
-decentralized exchange is location neutral and gives everyone has an equal opportunity.
+decentralized exchange is location neutral and gives everyone equal opportunity.
 
 ## Secure
 <a href="http://www.amazon.com/gp/product/1933550287/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933550287&linkCode=as2&tag=bytesblog-20&linkId=VR57AUJQOYH6E3NH"><img style="float:right;margin-left:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1933550287&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1933550287" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -67,7 +67,7 @@ trade. It doesn't get any cheaper than BitShares.
 ## Trade Almost Anything
 Trade in Gold, Sliver, Gas, and Oil in addition to all of your favorite national and crypto currencies.  There are
 few limits on what can be traded on the BitShares exchange given enough interest.  The BitShares exchange can support
-assets that can track stocks, bonds, indexes, or inflation.  Companies can issue their on stock on the BitShares network and allow easy, low cost, trading with complete protection against naked shorting.  What other crypto-currency exchange
+assets that can track stocks, bonds, indexes, or inflation.  Companies can issue their own stock on the BitShares network and allow easy, low cost, trading with complete protection against naked shorting.  What other crypto-currency exchange
 allows you to trade in gold and silver?  [Learn more about how BitShares creates trust-free digital assets pegged to almost anything]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}).
 
 ## Earn Interest on your Gold & Silver
