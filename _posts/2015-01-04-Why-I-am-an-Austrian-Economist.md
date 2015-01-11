@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Why I am an Austrian Economist"
+title:  "Why I am an Austrian Economist - Take 1"
 author: "Daniel Larimer"
 categories: article
 ---
+> The good folks at [bitsharestalk](https://bitsharestalk.org) can always be relied upon to provide a solid critique.  Their critique of this post convinced me to make a [second attempt]({% post_url 2015-01-06-Why-I-am-an-Austrian-Economist-Take-2 %}) which I feel does a much better job.  The original article can be found here.
 
+<hr/>
 Founders of major crypto-currency projects depend as much on economics as they do technology.   Every crypto-currency project is a huge economic experiment and whether it will be successful or not depends upon the economic beliefs of its leaders.    Recently, Vitalik, co-founder of Ethereum, made a critique of one of my blog posts based upon my assumption of an Austrian perspective on economics.   Vitalik directed me to a post by Bryan Caplan of George Mason university titled [“Why I am *not* an Austrian Economist”](http://econfaculty.gmu.edu/bcaplan/whyaust.htm).  This post inspired me to explain why I am an Austrian economist and why that makes BitShares stand out among the leading crypto-currency projects. 
 
 <a href="http://www.amazon.com/gp/product/1479220809/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1479220809&linkCode=as2&tag=bytesblog-20&linkId=NYDA4D7TEPZ6O7DR"><img style="float:left;margin-right:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1479220809&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1479220809" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

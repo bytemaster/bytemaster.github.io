@@ -1,5 +1,5 @@
 
-<div style="max-width: 300px;"><!-- class="profile {% if page.featured == true %} featured {% endif %}"> -->
+<div><!-- class="profile {% if page.featured == true %} featured {% endif %}"> -->
    {% if site.author_image != "" %}<img style="margin-bottom: 10px" src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
 	 <h1 style="margin:5px">Welcome!</h1>
    <p style="margin: 5px">{{ site.author_bio }}</p>
@@ -9,17 +9,11 @@
  profitable.
 
    <center>
-      <a href="{% post_url  2014-12-22-Join-the-BitShares-Community %}" onclick="BTSW.action('clicked Join Now', 'button');"><img src="/media/join_now_button.jpg"/></a>
+      <img src="/media/join_now_button.jpg"/>
       <br/>
-   </center>
-   <center>
-   Help spread the word. 
-   <br/><a href="http://triberr.com/pages/tribe-overview.php?tid=59654" onclick="BTSW.action('clicked Join Tribe', 'button');" >Join the BitShares Tribe!</a>
+     <a href="{{ site.url }}/feed.xml"  class="smallbutton lightgray"><i class="fa fa-rss"></i>RSS feed</a>
    </center>
       <hr>
-      <center style="margin:0px">
-      <a href="http://bitshares.tv"><img style="margin:0px" src="/media/btvlogobig.png"/></a>
-      </center>
 
 </div>
 <div class="featured-post" >
@@ -52,4 +46,13 @@
    <br/>
    <br/>
 
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+   <!-- sidebar -->
+   <ins class="adsbygoogle"
+        style="display:inline-block;width:300px;height:600px"
+             data-ad-client="ca-pub-9474135287142327"
+                  data-ad-slot="5050361693"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
 </aside>
