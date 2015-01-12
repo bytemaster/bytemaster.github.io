@@ -27,7 +27,7 @@ SafeBot is just our term for what is known as a visual hash or visual checksum. 
 
 ## Is this better than a checksum?
 
-I am a sophisticated Bitcoin user and I get paranoid every time I request or make payment in Bitcoin.  One time I gave someone the wrong address and 3 BTC went to some lucky sole out there.   Other times I might mix up addresses that other people have given me.   The only reliable way to send to the right address is to manually maintain an address book.  Once you do this it is back to the potential for human error if you happen to select the wrong contact.
+I am a sophisticated Bitcoin user and I get paranoid every time I request or make payment in Bitcoin.  One time I gave someone the wrong address and 3 BTC went to some lucky soul out there.   Other times I might mix up addresses that other people have given me.   The only reliable way to send to the right address is to manually maintain an address book.  Once you do this it is back to the potential for human error if you happen to select the wrong contact.
 
 Bitcoin addresses create a huge hurdle for new users and mobile payments.  QR codes have become the preferred way to exchange a Bitcoin address and that is very cumbersome compared to entering an account name.   Bitcoin addresses are so obtuse that the checksum almost never plays a role because all addresses are moved around via copy and paste rather than manual input.
 
