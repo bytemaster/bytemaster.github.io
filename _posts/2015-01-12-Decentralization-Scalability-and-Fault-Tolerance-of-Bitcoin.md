@@ -6,7 +6,7 @@ categories: article
 ---
 Bitcoin is all about decentralizing the control over money through objective consensus on ownership.  What often gets lost in the discussion is the
 difference between decentralization, scalability, and fault tolerance.   Bitcoin is an example of a decentralized system whose scalability
-is limited by the power of an individual node rather than the combined power of all nodes.  This means that a systems ability to become 
+is limited by the power of an individual node rather than the combined power of all nodes.  This means that a system's ability to become 
 distributed for fault tolerance, decentralized for control, and scalable for performance are not linked together by the number of nodes. In
 fact we could say that attempts to combine these roles via the same mechanism will carry with it the combined limitations rather than the
 combined benefits.   Hence economies of scale and free market competition will tend to minimize unnecessary fault tolerance (redundancy) while centralizing for

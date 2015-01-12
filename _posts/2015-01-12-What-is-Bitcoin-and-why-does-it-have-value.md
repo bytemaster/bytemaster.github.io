@@ -42,7 +42,7 @@ For me Bitcoin goes beyond any particular ledger, blockchain, or technology.  Bi
 
 In my opinion the Bitcoin blockchain has failed to achieve our goals, but the Bitcoin vision has succeeded beyond any of our wildest imaginations.   I have left the Bitcoin blockchain to start BitShares because I want to remain true to the founding principles of Bitcoin.   I think it is time for us to stop focusing on the technology that divides us and instead focus on the principles that originally brought us all together.   
 
-BitShares is just one technology that will contribute to the massive growth of the free market ideals upon which Bitcoin was originally founded.  Hopefully we can create a self-sustaining micro-economy around BitShares that can achieve the vision of Bitcoin now that have freed ourselves from a $400 million dollar albatross.  If you value life, liberty, and property then [join us]({% post_url  2014-12-22-Join-the-BitShares-Community %}) as we work to take the next step on the journey Satoshi started. 
+BitShares is just one technology that will contribute to the massive growth of the free market ideals upon which Bitcoin was originally founded.  Hopefully we can create a self-sustaining micro-economy around BitShares that can achieve the vision of Bitcoin now that we have freed ourselves from a $400 million dollar albatross.  If you value life, liberty, and property then [join us]({% post_url  2014-12-22-Join-the-BitShares-Community %}) as we work to take the next step on the journey Satoshi started. 
 
 ## Las Vegas Speech - October 2014
 
