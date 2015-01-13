@@ -37,3 +37,17 @@ As you can see the golden principle doesn’t leave much room for aggression at 
 At this point you are probably thinking that this is entirely too radical a principle and that if building a society on the Non Aggression Principle was utopian, then doing the same under The Golden Principle is beyond utopian.   
 
 I hope to show you that not only is the Golden Principle a practical principle upon which to engineer a libertarian utopia, but it is a necessary principle.   A true free market solution for securing life, liberty, and property must be effective against all aggressors, including todays totalitarian governments.   The free market solution must be so powerful that it can be implemented today and be effective at combating government aggression.  This means that a free market solution must be fundamentally legal and beyond reproach.  
+
+
+## Limits of the Golden Principle 
+
+Some people have made the critique that the Golden Principle is too subjective and could be used to rationalize any kind of behavior.  Some people like to be abused, enslaved, and to pay taxes.  From the perspective of these people the Golden Principle could legitimize their violation of the Non Aggression Principle.  This is where the debate between objective reality and subjective reality gets real.   Without an objective rule sophisticated propagandists can bend the Golden Principle in the minds of the masses to support all manner of violence and aggression.   I take a subjective view of reality that doesn't need to worry about other parties abusing the interpretation; however, those that take a more objective view may worry that the Golden Principle isn't strong enough or tight enough.  I would like to offer the following objective clarification:
+
+ > Actions permitted by the Non-Aggression Principle are a necessary superset of actions permitted under the Golden Principle.
+
+<a href="http://www.amazon.com/gp/product/1892005034/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=bytesblog-20&linkId=RM3GSWSPMMGRZGT7"><img style="float:right;margin-left:25px" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1892005034&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bytesblog-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1892005034" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+In other words, adopting the Golden Principle would not invalidate the Non Aggression Principle, it would merely help add further restrictions on how one may respond to aggression.  For example, how we communicate is not normally considered aggression for the purposes of the Non Aggression Principle, but it would fall under the Golden Principle.  <a href="http://www.amazon.com/gp/product/1892005034/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=bytesblog-20&linkId=3ADBUM6TI2MYJXIU">"Nonviolent Communication: A Language of Life"</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1892005034" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is an excellent book about nonviolent communication.  
+
+In other words, at all times the Golden Principle is compatible with the Non-Aggression Principle even though the Non-Aggression Principle isn't at all times compatible with the Golden Principle.   
+
+ 
