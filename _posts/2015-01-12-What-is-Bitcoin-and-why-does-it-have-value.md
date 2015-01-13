@@ -8,7 +8,7 @@ There is a vast difference between what something *is* and what it is used for. 
 
 ## Prior Attempts to Answer the Question
 
-“What is Bitcoin?”  Such a simple question that is incredibly hard to answer in just a few sentences.    Back in 2008 I started a bounty for someone to create a video describing what Bitcoin is and how it works.   Today the winner of that bounty is one of the most watched videos for explaining Bitcoin to the masses.
+“What is Bitcoin?”  Such a simple question that is incredibly hard to answer in just a few sentences.    Back in 2010 I started a bounty for someone to create a video describing what Bitcoin is and how it works.   Today the winner of that bounty is the most watched video for explaining Bitcoin to the masses.
 
 <iframe width="640" height="375" src="//www.youtube.com/embed/Um63OQz3bjo" frameborder="0" allowfullscreen></iframe>
 
@@ -30,9 +30,9 @@ The question remains, if Bitcoin generates revenue from transaction fees then wh
 
 The value of Bitcoin is the result of people coming together under a common desire to create economic freedom.   It is no different than someone creating a club where membership brings a feeling of belonging and purpose.  It is a public sign that you are doing something to change the world.  It indicates that you want change and are willing to put your money where your mouth is.  This is the ultimate source of all value in Bitcoin.   Without this group membership value, the first Bitcoins would never have found a market nor established a price.
 
-Something happened along the way that changed Bitcoin forever.  Its price started to grow and with it the belief that bitcoins could one day become a world currency.   People started buying bitcoin because they wanted to get rich, not because they wanted to change the world.   Money, power, and greed became the primary motivators for those deciding to buy Bitcoin.  In the process Bitcoin became detached from all fundamentals. 
+Something happened along the way that changed Bitcoin forever.  Its price started to grow and with it the belief that bitcoins could one day become a world currency.   People started buying bitcoin because they wanted to get rich, not because they wanted to change the world.   Money, power, and greed became the primary motivators for those deciding to buy Bitcoin.  In the process Bitcoin became detached from its fundamentals. 
 
-Bitcoin has become completely disconnected from its original source of value and is now trading based upon speculation alone.   If we were to evaluate Bitcoin as a company then it is losing $400 million dollars per year as it issues new shares to pay miners to consume electricity.   Its value as a club of visionary idealists is unable to support such a huge economic loss.  Bitcoin is unable to earn enough in transaction fees to cover its cost of operations.  This means for all intents and purposes a bitcoin is a share of a company that reports an annual loss equal to 10% of its market cap.  
+Bitcoin has become disconnected from its original source of value and is now mostly trading upon speculation.   If we were to evaluate Bitcoin as a company then it is losing some $300 million dollars per year as it issues new shares to pay miners to consume electricity.   Its value as a club of visionary idealists is unable to support such a huge economic loss.  Bitcoin is unable to earn enough in transaction fees to cover its cost of operations.  This means for all intents and purposes a bitcoin is a share of a company that reports an annual loss equal to 10% of its market cap (and 5% from July 2016 onwards).
 
 Based upon this analysis of what Bitcoin is, we can only assume that its long-term price support will be based upon its value as a social status symbol.  The more centralized and regulated Bitcoin becomes the less it retains of its original value and the more it depends upon greed fueled speculation.    This is the heart of the volatility of a bitcoin.   Fear, uncertainty, and doubt in a battle with irrational exuberance and greed will drive Bitcoin for many years to come.   
 
@@ -42,7 +42,7 @@ For me Bitcoin goes beyond any particular ledger, blockchain, or technology.  Bi
 
 In my opinion the Bitcoin blockchain has failed to achieve our goals, but the Bitcoin vision has succeeded beyond any of our wildest imaginations.   I have started BitShares because I want to remain true to the founding principles of Bitcoin.   I think it is time for us to stop focusing on the technology that divides us and instead focus on the principles that originally brought us all together.   
 
-BitShares is just one technology that will contribute to the massive growth of the free market ideals upon which Bitcoin was originally founded.  Hopefully we can create a self-sustaining micro-economy around BitShares that can achieve the vision of Bitcoin now that we have freed ourselves from a $400 million dollar albatross.  If you value life, liberty, and property then [join us]({% post_url  2014-12-22-Join-the-BitShares-Community %}) as we work to take the next step on the journey Satoshi started. 
+BitShares is just one technology that will contribute to the massive growth of the free market ideals upon which Bitcoin was originally founded.  Hopefully we can create a self-sustaining micro-economy around BitShares that can achieve the vision of Bitcoin now that we have freed ourselves from a $300 million dollar albatross.  If you value life, liberty, and property then [join us]({% post_url  2014-12-22-Join-the-BitShares-Community %}) as we work to take the next step on the journey Satoshi started. 
 
 ## Las Vegas Speech - October 2014
 
