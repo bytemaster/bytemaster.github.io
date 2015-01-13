@@ -28,7 +28,7 @@ One thing that needs to be pointed out is that these custodians have no legal ob
 
 ## The Likely Insolvency of NuBit Custodians 
 
-Lets stop to consider the fact that all NuBits are being traded against crypto currencies on various exchanges.  Every NuBit that was sold for $1 worth of BTC transfers BTC to a custodian.   Since NuBits launched Bitcoin has fallen 50% (from $500 to $250).  Unless the custodian liquidated to real USD they how have 50% of the capital required to buy back the NuBits.  A custodian has little financial incentive to eat the 50% loss in Bitcoin price in the event there is a run on NuBits.     
+Lets stop to consider the fact that all NuBits are being traded against crypto currencies on various exchanges.  Every NuBit that was sold for $1 worth of BTC transfers BTC to a custodian.   Since NuBits launched Bitcoin has fallen 50% (from $500 to $250).  Unless the custodian liquidated to real USD they now have 50% of the capital required to buy back the NuBits.  A custodian has little financial incentive to eat the 50% loss in Bitcoin price in the event there is a run on NuBits.     
 
 I suspect that the primary motivation for becoming a NuBits custodian is to get free leverage on Bitcoin.  They *naked-sell* a dollar worth of Bitcoin and promise to buy it back in the future.  The NuBits holder is trusting their promise to buy it back.  As long as you are betting on BTC going up in value then the NuBits custodians can continue to hold the peg and increase their leverage.  
 
