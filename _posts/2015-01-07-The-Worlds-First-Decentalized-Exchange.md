@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Worlds First Decentralized Exchange"
+title:  "The Worlds First Decentralized Exchange Without Counterparty Risk"
 author: "Daniel Larimer"
 categories: article 
 ---
