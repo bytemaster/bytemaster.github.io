@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decentralization-of-Nxt-vs-BitShares"
+title:  "Decentralization of Nxt vs. BitShares"
 author: "Daniel Larimer"
 categories: article 
 ---
