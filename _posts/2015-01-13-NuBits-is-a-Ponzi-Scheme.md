@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "NuBits is a Ponzi Scheme"
+title:  "NuBits is structured like a Ponzi Scheme"
 author: "Daniel Larimer"
 categories: article 
 ---
 I am not one to throw around the term Ponzi scheme loosely.  After all just about every crypto project has been called a Ponzi scheme at some point.   Just because early adopters get rich doesn’t make something a Ponzi, what matters is the structure and financial soundness of the investment opportunity.  [NuBits](https://nubits.com/) is a crypto currency that has emerged from the [Peercoin community](http://peercointalk.org) which aims to peg its value to the dollar.  It has the appearance of being very successful because of high volumes, tight spreads and an outstanding supply of NuBits worth over $2 million.    From the outside one may even get the impression that NuBits is better than [BitUSD]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %}) at maintaining a peg to the dollar.   All Ponzi schemes start out looking like solid investments until one day they collapse.  What is most fascinating about the NuBits Ponzi is that it currently is promising a return of 0%!!! This must be some kind of first in Ponzi history.
+
+Before going any further I would like to clarify that I have no evidence to suggest the people behind NuBits and NuShares have intent to defraud.  This article merely aims to highlight the structural problems with NuBits as I see them.  Some people have suggested that I should not use the phrase "Ponzi Scheme" because it could be offensive, but that would merely make me complicit and harm those who read this blog.  Until new information surfaces that proves that NuBits has at least 100% reserve which are secure against theft, fraud, or misappropriation then I will maintain the fully objective, non-FUD, opinion that a NuBit is at best an unsecured IOU from unknown issuers.  It only becomes a Ponzi scheme once NuBits is forced to print new NuBits to pay interest on old NuBits.  They are not currently doing this, but due to the fractional reserve, naked-shorting that I believe is being  practiced it is inevitable.  Even Ponzi started out with honest intentions. 
+
+It is my sincere hope that the fans of NuBits can identify and clarify any misunderstandings in this post.  If you have identified the secret to high-liquidity, low-risk, pegged crypto-currencies then it is something I want to understand and share with my readers.  
+
+## What is a Ponzi Scheme?
 
 I am going to start with a clear definition of a Ponzi according to Wikipedia:
 
