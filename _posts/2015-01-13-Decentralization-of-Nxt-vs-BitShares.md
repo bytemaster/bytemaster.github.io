@@ -42,7 +42,7 @@ other 6 are from the top 16 producers.   This means 20 minutes for every 4 new u
 If BitShares were to lose 50% of its delegates all at once due to a government crackdown the remaining 50 delegates would still be producing a more secure, decentralized, and
 distributed ledger with greater decentralization per minute than every other blockchain on the market.   
 
-At the end of the day, speed of decentralization matters to the end user and is actually critically important to overall security.  It is much easier to pull of an attack if
+At the end of the day, speed of decentralization matters to the end user and is actually critically important to overall security.  It is much easier to pull off an attack if
 the attacker has 7 hours than if the attacker has mere minutes.   Users want speed and with the latest data from Nxt we can conclusively say that on a logarithmic scale,
 BitShares with 101 delegates is over twice as decentralized as Nxt with 10 only signers within in the transaction confirmation window.
 
