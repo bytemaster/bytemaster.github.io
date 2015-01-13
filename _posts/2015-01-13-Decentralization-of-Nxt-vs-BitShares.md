@@ -28,7 +28,7 @@ two minutes.   You can see this on their blocks-per-day chart.
 
 For small transactions, it is recommended that you wait for 10 blocks or an average of 20 minutes.  During that 20 minute window your transaction will be "confirmed" by 10 people, more often than not those 10 people will be a subset of the 16 most common block producers.  Waiting 40 minutes will not buy you much additional decentralization. 
 
-Compared this to BitShares, which during any 20 minute window has all 101 delegates sign off on your transaction 1.25 times on average making it fully irreversible.  Our delegates are
+Compare this to BitShares, which during any 20 minute window has all 101 delegates sign off on your transaction 1.25 times on average making it fully irreversible.  Our delegates are
 far more reliable with near 100% participation compared to Nxt forgers at about 50% participation.   
 
 ## Decentralization per Minute
