@@ -13,7 +13,7 @@ In my post about [How to Measure the Decentralization of Bitcoin]({% post_url 20
 far more than the total number of people who can produce blocks.   Specifically, it doesn't matter if 1000 people can produce blocks in a given year,
 if 99 out of every 100 are produced by the same individual.   
 
-Today the numbers are in for Nxt with data from [their very own block explorer](https://nxtblocks.info/#section/blockexplorer_charts).  These numbers show that 60% of all blocks are produced by just 15 people.  The
+Today the numbers are in for Nxt with data from [their very own block explorer](https://nxtblocks.info/#section/blockexplorer_charts).  These numbers show that 60% of all blocks are produced by just 15 accounts.  The
 Nxt users recommend 720 confirmations for "big transactions" which means that at best 300 people contribute to producing a block in that window.  This makes the
 provably false assumption that the last 40% of all blocks are maximumly distributed to 1 person per block.   I can go further and say that in my own samples of the
 top producers I found enough block producers that were above 1% and less than 2% that I can safely conclude that after 720 blocks less than 101 unique block 
