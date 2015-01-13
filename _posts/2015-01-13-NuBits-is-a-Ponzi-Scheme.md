@@ -16,6 +16,9 @@ I am going to start with a clear definition of a Ponzi according to Wikipedia:
 
 >  A Ponzi scheme is a fraudulent investment operation where the operator, an individual or organization, pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned by the operator.
 
+<img src="/media/good-intentions.jpg" style="float:right;margin-left:25px"/>
+Some people take issue with the term *fraudulent* because it implies intent.  Like I said above, I do not know the *intent* of the NuBits founders.  It is not uncommon for people to intentionally and transparently create a Ponzi scheme for entertainment and gambling purposes.  While being transparent or ignorant about the nature your scheme removes the element of fraud, it does not change the structure of the scheme. For the purposes of this article I only care about the financial structure and not the intent of the founders.   
+
 Now that we have a definition of a Ponzi scheme, lets review NuBits and see if it uses new capital to pay a return to original investors.  
 
 ## Creating NuBits
