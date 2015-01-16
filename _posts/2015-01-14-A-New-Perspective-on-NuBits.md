@@ -36,7 +36,7 @@ The ability to back a bond with equity is directly related to the liquidity of t
 
 It should be noted that the initial NuShare holders provided some seed money to boot strap the market maker bots.  This seed money can be seen as a form of initial collateral that may be used to cover trading losses.  I am not aware on the details regarding how the initial funds are held and whether or not there is an agreement between "Nu" and the initial investors that their funds are to be used as collateral.   I would love to see a financial statement on the financial health of the "Nu" company.  
 
-Is it a Ponzi Scheme?  That depends upon whether or not you believe fractional reserve banking is a Ponzi Scheme.  Considering Bitcoin was created to put an end to fractional reserve banking, it seems ironic that NuBits claims that it is “The World’s First Stable Digital Currency”.   It seems to me that BitStampUSD on Ripple may be “The World’s First Stable Digital Currency” by NuBits standards.  It certainly isn’t by Bitcoin standards.    
+Is it a Ponzi Scheme?  That depends upon whether or not you [believe fractional reserve banking is a Ponzi Scheme]({% post_url 2015-01-15-Is-Fractional-Reserve-Banking-a-Ponzi-Scheme %}).  Considering Bitcoin was created to put an end to fractional reserve banking, it seems ironic that NuBits claims that it is “The World’s First Stable Digital Currency”.   It seems to me that BitStampUSD on Ripple may be “The World’s First Stable Digital Currency” by NuBits standards.  It certainly isn’t by Bitcoin standards.    
 
 ## BitUSD is the Worlds First Stable Crypto Currency
 
