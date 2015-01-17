@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "The Golden Principle"
+title:  "The Golden Principle (aka The Silver Rule)"
 author: "Daniel Larimer"
 categories: article
 ---
-Principles are the bedrock upon which the foundation of society are built.  Without principles there is no guide or consistency nor measure of success or failure.   If we are to create a libertarian utopia it must be engineered from the ground up to comply with a set of universal principles without compromise.        
+Principles are the bedrock upon which the foundation of society are built.  Without principles there is no guide or consistency nor measure of success or failure.   If we are to create a libertarian utopia it must be engineered from the ground up to comply with a set of universal principles without compromise.  
 
 <!--more-->
+Update 1/15/2015: I have since learned that The Golden Principle is already known as the [Silver Rule](http://www.ehow.com/about_6469084_difference-silver-rule-golden-rule_.html).  
 
 Libertarians generally hold one principle as the cornerstone of their philosophy, the Non-Aggression Principle (NAP).   Stated simply, one should not initiate or threaten violence or fraud against another or their property.  From this principle the logical conclusion is that governments as we know them cannot exist without violating this principle because they depend upon the threat of violence to compel the payment of taxes which are required to fund their very existence.  
 
