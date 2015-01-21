@@ -63,7 +63,7 @@ What these insights tell us is that crypto-currency projects should measure thei
 
 ## Delegated Proof of Stake 
 
-The benefits of Delegated Proof of Stake are that it selects 101 trusted broadcaster which are located around the world.  As long as even one of the broadcasters remains trustworthy to not censor messages, the users can elect an entire new slate of broadcasters.  This system allows the network to optimize on other, more important, factors such as speed, scale, and reliability.  With the addition of [BitAssets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %})  which can peg a digital asset to any commodity at almost any scale, we have leveled the playing field and opened the crypto-currency market up to unlimited competition which ultimately means an unlimited number of groups of 101 broadcasters competing to serve the masses.
+The benefits of Delegated Proof of Stake are that it selects 101 trusted broadcasters which are located around the world.  As long as even one of the broadcasters remains trustworthy to not censor messages, the users can elect an entire new slate of broadcasters.  This system allows the network to optimize on other, more important, factors such as speed, scale, and reliability.  With the addition of [BitAssets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %})  which can peg a digital asset to any commodity at almost any scale, we have leveled the playing field and opened the crypto-currency market up to unlimited competition which ultimately means an unlimited number of groups of 101 broadcasters competing to serve the masses.  We can safely say that no one will be able to censor BitShares and thus it is maximally decentralized. 
 
 
 
