@@ -41,11 +41,7 @@ Perhaps you are not one willing to take a huge risk on our movement, but you rea
 
 Follow us on [Facebook](http://www.facebook.com/officialbitshares) and [Twitter](http://www.twitter.com/_bitshares). This is a great way to keep up to date and let your friends and family know that you are part of the BitShares community. 
 
-### 6)  Mine BitShares 
-
-Do you have some spare computer power?  Mining BitShares with [our virtual mining multi-pool](http://www.minebitshares.com) allows you to turn spare CPU / GPU cycles into freedom.    
-
-### 7) Add yourself to our Community Map
+### 6) Add yourself to our Community Map
 
 [Add yourself](https://www.zeemaps.com/map?group=1162907) to our [community map](http://www.zeemaps.com/view?shuttered=1&group=1162907&x=-80.400616&y=37.224179&z=15) to show your support!  This lets people visually see where our community is and how many people near by.
 
