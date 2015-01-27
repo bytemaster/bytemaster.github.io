@@ -24,7 +24,7 @@ For [BitAssets]({% post_url 2014-12-18-What-are-BitShares-Market-Pegged-Assets %
 
 Rather than attempting to keep the peg “at all costs” BitShares chooses to define the ability to redeem BitUSD as the minimum value of about $1 or the collateral ratio of the least collateralized short position.   It also chooses to define the terms of BitUSD such that it can be automatically converted to BTS at the ratio of the least collateralized short at any time.   
 
-Anyone who is holding BitUSD at the moment of a <a href="http://www.amazon.com/gp/product/1400063515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400063515&linkCode=as2&tag=bytesblog-20&linkId=4GECX3IZGXYP5OVX">Black Swan</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1400063515" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> will have it instantly converted to BTS.  The least collateralized short will get nothing back and all other shorts will get up to 95% of what ever collateral they have left after settling.   Everyone settles at the same price.
+Anyone who is holding BitUSD at the moment of a <a href="http://www.amazon.com/gp/product/1400063515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400063515&linkCode=as2&tag=bytesblog-20&linkId=4GECX3IZGXYP5OVX">Black Swan</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bytesblog-20&l=as2&o=1&a=1400063515" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> will have it instantly converted to BTS.  The least collateralized short will get nothing back and all other shorts will get what ever collateral they have left after settling.   Everyone settles at the same price.
 
 ## Impact of Price Feeds
 
