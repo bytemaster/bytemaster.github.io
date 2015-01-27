@@ -16,7 +16,7 @@ In the case of BitShares we assumed the collateral (BTS) could easily be as vola
 
 In order to break BitUSD the value of BitShares would have to fall by 67% in a market where no one was willing to sell enough BitUSD to allow all existing shorts to cover.   For all practical purposes this fall would have to occur over just a few days, in thin markets, with no expectation for a rebound in value.   This kind of event is possible and could be triggered by any number of events: most likely bugs, hacked wallets, or government actions.
 
-As much as we would like to pretend these things would never happen, we can be sure they will happen at some point with some BitAssets because even if BTS didn't lose any value at all. The value of gold or silver could grow by 300% while BitShares stays flat.  So a Black Swan can occur due to no fault of BitShares or crypto currency in general.
+As much as we would like to pretend these things would never happen, we can be sure they will happen at some point with some BitAssets because even if BTS didn't lose any value at all the value of gold or silver could grow by 300% while BitShares stays flat.  So a Black Swan can occur due to no fault of BitShares or crypto currency in general.
 
 ## Handling a Black Swan 
 
