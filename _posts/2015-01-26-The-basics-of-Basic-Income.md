@@ -18,7 +18,7 @@ If you assume the Basic Income budget is set at a level that would replace exist
 
 So how big of a difference would it make to me personally if a basic income was adopted to simply replace existing government spending?  For starters, I could buy a new car if this were adopted today. If it replaced child support I could buy a new house as well.  Based upon this assessment it is a no-brainer for me to support a Basic Income that merely replaced current government spending.  
 
-Unfortunatley those who are currently benefiting from welfare, excessive child support, and large social security checks would end up with a lot lower payments.  In effect, Basic Income would actually reduce wealth redistribution in the economy and thus a big improvement for those of us who like liberty.  
+Unfortunately those who are currently benefiting from welfare, excessive child support, and large social security checks would end up with a lot lower payments.  In effect, Basic Income would actually reduce wealth redistribution in the economy and thus a big improvement for those of us who like liberty.  
 
 The unfortunate reality is that political forces would always lobby to increase the Basic Income like they do the minimum wage.
 
