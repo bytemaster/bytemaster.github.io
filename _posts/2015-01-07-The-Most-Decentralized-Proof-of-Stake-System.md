@@ -10,7 +10,7 @@ All too often I see people making the claim that Delegated Proof of Stake is too
 
 Proof of stake is any system that is secured by the owners of the shares, coins, or tokens.  The idea is that those with a stake in the system have a financial interest in securing the system against attack.   Because stake is limited, attacking a proof of stake system would require buying up a large stake in the network at great expense.  
 
-There are many ways that stake can be used and how it is used will ultimately determine the level of decentralization that will result.   Peercoin uses stake like a virtual mining machine, the more stake you have the easier it is for your computer to mine.   Nxt uses a deterministic algorithm for deciding who will produce the next block that randomly selects among users proportional to their stake.  Recently Nxt added leased forging which allows one user do delegate their forging power to another user.   
+There are many ways that stake can be used and how it is used will ultimately determine the level of decentralization that will result.   Peercoin uses stake like a virtual mining machine, the more stake you have the easier it is for your computer to mine.   Nxt uses a deterministic algorithm for deciding who will produce the next block that randomly selects among users proportional to their stake.  Recently Nxt added leased forging which allows one user to delegate their forging power to another user.   
 
 Delegated proof of stake used by BitShares elects 101 delegates with approval voting of the shareholders.  These delegates are randomly shuffled every 101 blocks and then take turns producing blocks every 10 seconds. 
 
