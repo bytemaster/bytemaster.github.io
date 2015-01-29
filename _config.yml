@@ -36,6 +36,9 @@ theme_reading_time: 		true
 theme_autoload_comments: 	false
 theme_always_show_nav: 		true
 
+gems:
+  - jekyll-redirect-from
+
 
 # SASS Settings
 # DO NOT MODIFY
