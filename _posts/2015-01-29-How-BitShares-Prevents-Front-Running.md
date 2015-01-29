@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why BitShares 'Front Runs' Orders"
+title:  "How BitShares Prevents Front Running"
 author: "Daniel Larimer"
 categories: article 
 ---
