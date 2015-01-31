@@ -5,7 +5,7 @@ author: "Daniel Larimer"
 categories: article 
 ---
 
-I have been following [MaidSafe](http://maidsafe.net/) since before I learned about Bitcoin and I learned about Bitcoin back when I could still mine full blocks with my own CPUs.    Back in those early days MaidSafe was not creating a crypto-currency and instead focusing mostly on distributed storage.  Much has changed since then and there are many great things that MaidSafe is doing.   Today I would like to offer my opinions on their efforts.
+I have been following [MaidSafe](http://maidsafe.net/) since before I learned about Bitcoin and I learned about Bitcoin back when I could still mine full blocks with my own CPUs.    Back in those early days MaidSafe was not creating a crypto-currency, instead focusing mostly on distributed storage.  Much has changed since then and there are many great things that MaidSafe is doing.   Today I would like to offer my opinions on their efforts.
 
 My first encounter with MaidSafe was when I was attempting to build my own decentralized storage network.  I was very interested in distributed hash tables and was looking for implementations of the [Kademlia](http://en.wikipedia.org/wiki/Kademlia) algorithm.  I was very excited to find their website; unfortunately, the code was not fully open source at the time and I was forced to wait until they published their latest version.   
 
@@ -17,9 +17,7 @@ In their pursuit of perfection it appears they have abandoned using the 3rd part
 
 I realize that I am picking apart a relatively low-level aspect of MaidSafe, but it merely serves as an example of the huge amount of effort that has gone into building their system.  If they ever get this thing released in the wild it will be amazing.   Of course I have been saying that for years.  
 
-Enough with nitpicking their code quality, lets talk about their design.   
-
-## Micro Managed and Overly Complex
+## Micro Managed and Complex
 
 The MaidSafe network architecture has become very complex with many specialized nodes each of which is managed and promoted within the system.  Nodes are grouped into blocks of 32 and management nodes direct where files should be stored and are responsible for republishing data.  In their currency system consensus is reached among a group 32 peers.  Existing nodes assign IDs to new nodes and place them in groups.   Every place I turn in their documentation I see a complex set of business rules, routing rules, reputation rules, and other forms of centralized planning.  
 
@@ -33,7 +31,7 @@ Based upon the level of programming talent that MaidSafe has I expect they will 
 
 # Economic Challenges 
 
-The biggest issue that MaidSafe faces is designing their economic incentives properly.  Most P2P networks suffer from a problem known as leaching.  A leacher is someone who consumes resources (bandwidth) without contributing bandwidth or paying for it.  This is what makes systems like Freenet, Tor, and I2P so slow.  
+The biggest issue that MaidSafe faces is designing their economic incentives properly.  Most P2P networks suffer from a problem known as leaching.  A leecher is someone who consumes resources (bandwidth) without contributing bandwidth or paying for it.  This is what makes systems like Freenet, Tor, and I2P so slow.  
 
 If a P2P network can get the economic incentives right then free market competition will take over and provide the highest quality, lowest cost service possible.   If you get the economic incentives wrong then the same free market competition will drive the service into the ground.
 
