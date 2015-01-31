@@ -59,7 +59,7 @@ If we make the simple assumption that all 32 nodes must receive, process, and re
 
 We can also estimate that the time to process a transaction based upon the network latency of two peers on opposite sides of the world.  A simple “ping” message can take 500 ms and every single transaction would likely require multiple round-trips.  This means that it could easily take over 1 second to confirm a transaction if you already had all of your network connections established.  
 
-If you must lookup the peers responsible for managing the coin used in the transaction then that could take log(n) lookups and easily take several seconds on an encrypted network with a million nodes evenly spread all over the world.   These lookup requests will also consume bandwidth.   This isn’t that much better than BitShares which has an average truncation confirmation time of 5 seconds. 
+If you must lookup the peers responsible for managing the coin used in the transaction then that could take log(n) lookups and easily take several seconds on an encrypted network with a million nodes evenly spread all over the world.   These lookup requests will also consume bandwidth.   This isn’t that much better than BitShares which has an average transaction confirmation time of 5 seconds. 
 
 If we view time as a resource, it will likely take longer to process and confirm the payment than to download the content, especially if you have a network connection that can provide multiple megabytes per second and only source 1 MB of data.     
 
