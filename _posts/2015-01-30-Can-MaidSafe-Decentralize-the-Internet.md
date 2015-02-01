@@ -75,5 +75,5 @@ I predict that contrary to expectations, the MaidSafe network will either be mor
 
 # Conclusion 
 
-I believe MaidSafe will be more successful than those who have gone before it, but will ultimately fall short of the hype surrounding the project.  In a future article I will outline alternatives that will achieve most of what MaidSafe is attempting in a far simpler and more economical manner.   If I have gotten anything wrong in this article I hope those more familiar with the inner workings of MaidSafe will visit [bitsharestalk.org](https://bitsharestalk.org) and help clarify things.   I truly hope we can work together to build a viable system.  
+I believe MaidSafe will be more successful than those who have gone before it, but will ultimately fall short of the hype surrounding the project.  In a [future article I will outline alternatives that will achieve most of what MaidSafe is attempting in a far simpler and more economical manner]({% post_url 2015-02-01-Thoughts-on-MaidSafe-and-an-Alternative-Approach %}).   If I have gotten anything wrong in this article I hope those more familiar with the inner workings of MaidSafe will visit [bitsharestalk.org](https://bitsharestalk.org) and help clarify things.   I truly hope we can work together to build a viable system.  
 
