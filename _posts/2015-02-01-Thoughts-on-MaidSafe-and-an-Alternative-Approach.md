@@ -4,11 +4,11 @@ title:  "Thoughts on MaidSafe and an Alternative Approach"
 author: "Daniel Larimer"
 categories: article 
 ---
-I would like to provide some additional thoughts on MaidSafe based upon [feedback and corrections](https://www.maidsafe.org/t/bytemater-bitshares-daniel-larimer-opinion-on-maidsafe/2902/6) that I have received.   In particular I would like to address “farming”, “speed” and “leaching”.  Like I said in my [prior post]({ post_url 2015-01-30-Can-MaidSafe-Decentralize-the-Internet %}), economic incentives will either make or break a project and some of the clarifications have me concerned.  Lastly, I would like to present an alternative approach to providing censorship resistant distributed storage.  
+I would like to provide some additional thoughts on MaidSafe based upon [feedback and corrections](https://www.maidsafe.org/t/bytemater-bitshares-daniel-larimer-opinion-on-maidsafe/2902/6) that I have received.   In particular I would like to address “farming”, “speed” and “leeching”.  Like I said in my [prior post]({ post_url 2015-01-30-Can-MaidSafe-Decentralize-the-Internet %}), economic incentives will either make or break a project and some of the clarifications have me concerned.  Lastly, I would like to present an alternative approach to providing censorship resistant distributed storage.  
 
 Once again I would like to state that most of my opinions are based upon speculative assumptions derived from what I have read.  My arguments do not depend upon the facts being 100% correct because any slight variation on the facts is unlikely to change the outcome.  I will post corrections for anything that may be wrong.   
 
-# Leaching 
+# Leeching 
 
 One of the first things that I was told is that you “pay to put” not “pay to fetch”.   The benefit of “pay to put” is that there are far fewer people storing data than fetching data which means far fewer micro-payments.   This structure greatly concerns me about the profitability and sustainability of the network.   
 
