@@ -3,6 +3,7 @@ layout: post
 title:  "Thoughts on MaidSafe and an Alternative Approach" 
 author: "Daniel Larimer"
 categories: article 
+published: false
 ---
 I would like to provide some additional thoughts on MaidSafe based upon [feedback and corrections](https://www.maidsafe.org/t/bytemater-bitshares-daniel-larimer-opinion-on-maidsafe/2902/6) that I have received.   In particular I would like to address “farming”, “speed” and “leeching”.  Like I said in my [prior post]({ post_url 2015-01-30-Can-MaidSafe-Decentralize-the-Internet %}), economic incentives will either make or break a project and some of the clarifications have me concerned.  Lastly, I would like to present an alternative approach to providing censorship resistant distributed storage.  
 
