@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitshares now has a professional PR initiative"
-author: "The Spokesman"
+author: "James Gong"
 categories: article 
 ---
 Bitshares has come a long way since its debut. We have many achievements on the development front in the past few months, and our market cap had reached several milestones during that time. Despite the current setback, we still strongly believe that we will prevail over all the challenges that we would face moving forward, because we have a solid technology, an amazing development team and the support from a community that has been enduring the challenges with us every step of the way. For that, we’re forever grateful.
