@@ -14,10 +14,10 @@ An analogy can be made to proof of work where each miner is betting with their h
 
 This protocol has several nice properties:
 
-Anyone can participate 
-Consensus can be reached in a timely manner 
-It quickly converges on an irreversible consensus. 
-It appears to be free of politics 
+ 1. Anyone can participate 
+ 2. Consensus can be reached in a timely manner 
+ 3. It quickly converges on an irreversible consensus. 
+ 4. It appears to be free of politics 
 
 Unfortunately, the protocol suffers from the same problems as all other Proof of Stake systems except Delegated Proof of Stake and these problems are fatal.
 
