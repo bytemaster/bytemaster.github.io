@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Review of Casper, Ethereum’s proposed Proof of Stake Algorithm"
+author: "Daniel Larimer"
+---
+
 Vlad Zamfir of Ethereum recently made a [blog post](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/) describing a new Proof of Stake algorithm called Casper “the friendly ghost”.   Its name is derived from its relationship to the GHOST (Greedy Heaviest-Observed Sub-Tree) proof-of-work protocol.  For the full details of the proposed approach see their blog post.
 
 ## Overview  
