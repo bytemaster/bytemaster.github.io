@@ -13,14 +13,17 @@
       <br/>
    </center>
    <center>
-   Help spread the word. 
-   <br/><a href="http://triberr.com/pages/tribe-overview.php?tid=59654" onclick="BTSW.action('clicked Join Tribe', 'button');" >Join the BitShares Tribe!</a>
+   Help spread the word.
+   <br/>
    </center>
       <hr>
       <center style="margin:0px">
-      <a href="http://bitshares.tv"><img style="margin:0px" src="/media/btvlogobig.png"/></a>
+      <a href="https://www.youtube.com/channel/UChtICzF0ZEhhgoMA8YWhULw" arget="_blank"><img style="margin:0px" src="/media/btvlogobig.png"/></a>
       </center>
-
+      <hr>
+      <center style="margin:0px">
+      <a  href="https://www.youtube.com/c/BeyondBitcoinCommunity" target="_blank"><img style="margin:0px" src="/media/bb-logo.svg"/></a>
+      </center>
 </div>
 <div class="featured-post" >
 
@@ -31,7 +34,7 @@
    </center>
 
 
-   <h2>Featured Posts</h2> 
+   <h2>Featured Posts</h2>
    <ul style="list-style-type: none; margin: 0px;">
    {% for post in site.posts %}
        {% if post.featured == true %}
@@ -41,7 +44,7 @@
    {% endfor %}
    </ul>
 
-   <h2>Recent Posts</h2> 
+   <h2>Recent Posts</h2>
    <ul style="list-style-type: none; margin: 0px;">
    {% for post in site.posts %}
       {% capture count %}{{ count | plus: '4' }}{% endcapture %}
