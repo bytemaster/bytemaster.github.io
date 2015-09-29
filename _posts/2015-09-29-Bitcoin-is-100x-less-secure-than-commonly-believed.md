@@ -10,7 +10,7 @@ sharing: true
 ---
 The reason proof of work is considered secure is because it is more profitable to join the honest network than to attempt to attack it.   The more money you can earn mining for the honest chain, the more costly it becomes to produce an alternative chain.  At the core of this security is the concept that all actors pursue profit first and that any rational attack will only occur if it is profitable to do so.  
 
-Each day the Bitcoin network pays out 25 BTC ($6000) every 10 minutes or a total of $864,000 per day in rewards.   The cost of claiming those rewards approaches 100% of the value of those rewards as market competition increases.   For the sake of this article we will assume a net profit of 5% which means that the cost to gain 51% is $864,000*.51*.95 or about $420,000 per day.   
+Each day the Bitcoin network pays out 25 BTC ($6000) every 10 minutes or a total of $864,000 per day in rewards.   The cost of claiming those rewards approaches 100% of the value of those rewards as market competition increases.   For the sake of this article we will assume a net profit of 5% which means that the cost to gain 51% is $864,000 x .51 x .95 or about $420,000 per day.   
 
 We will assume an attacker wants to gain control over the network so that they can censor transactions and raise fees.  The assumed cost of this attack is $420,000 per day and this is the value that is commonly believed.
 
