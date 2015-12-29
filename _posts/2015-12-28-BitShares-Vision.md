@@ -18,20 +18,6 @@ Society is constantly changing and the issues involved are complex. A smart cont
 
 Given that we cannot write an immutable set of blockchain rules for government, we should instead focus on how to use a blockchain with completely mutable rules to create a well ordered, self-governing, society.
 
-## Cryptocurrency isn’t Property   
-
-To understand how a blockchain can be used to create a non-violent society we must first dispel one of the most sacred beliefs regarding cryptocurrency: that a crypto-currency is property. If we believe that all value is perceived value then a crypto-currency is nothing more than value as perceived by others. Since we cannot control the perception of others we do not control the value of our cryptocurrency. 
-
-Taken a step further, what makes one fork of a blockchain valuable and another worthless? It is merely the perception of the individuals of society that choose to value one fork and not another. Going a step further, an individual with coins has no right to demand everyone else in society accept their transfer of funds. The rest of society is free to voluntarily decline to process his or her transaction. This would have the impact of rendering that individual’s coins worthless (freezing their account). 
-
-While no one likes to have their account frozen in part or in full this action does not constitute a violation of property rights nor the initiation of aggression.  It is the moral equivalent to earning a bad reputation. No one likes to have their reputation tarnished whether deserved or not. Unfortunately it is not something you own, but something others think of you. They own their thoughts, not you.  
-
-This means that from a NAP point of view a society built on a blockchain may freely change how it wishes to interpret the information contained on a blockchain without violating the rights of the individuals.
-
-This means that inflation on a blockchain isn’t theft. It means that the blockchain can vote to freeze your account or reallocate your balances without actually stealing anything from you. It means the blockchain can charge negative interest rates on your account without it being morally wrong nor aggression. In other words, it means there is a huge degree of flexibility that is possible for a society built on a blockchain without ever violating the non aggression principle (NAP).        
-
-Not everything that is morally permissible is beneficial to society. Just because a blockchain may legitimately freeze your account, inflate, or charge negative interest rates does not mean that these attributes will garner support from society. The defining characteristic of a blockchain based government based on the NAP is that members of the society are free to leave for another blockchain. This means that free market competition will drive a blockchain based government to adopt policies that are fair and widely accepted or its currency will lose value and influence. 
-
 # Implications for BitShares
 
 BitShares has already been evolving into a self-governing and dynamic blockchain. It has been pitched as a DA-Company, Community, Currency, and Country. Depending upon who you ask emphasis will be placed on different aspects of BitShares.   Some people want to focus on the DA-Company aspect with a focus on a service (Exchange) and generating a profit (fees).  Others wish to focus on the Currency aspect with a focus eliminating inflation and/or deflation.
