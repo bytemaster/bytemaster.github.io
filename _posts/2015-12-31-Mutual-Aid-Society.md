@@ -136,6 +136,9 @@ It is my opinion that encouraging public membership in these societies is the be
 maintain and encourage the highest moral standards. No society should be attempted (or supported) that encourages harm to
 others.
 
+### Maximum Benefit
+
+
 ## Summary 
 
 This post was a brief introduction into how a MAS could be implemented on a blockchain. In a future post I will go into details
