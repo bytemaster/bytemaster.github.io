@@ -24,7 +24,7 @@ that members of a society gain peace of mind.
 
 Each month you publicly commit funds to be given to other members of your society. 
 These funds are held in a Smart Contract that will only allow them to be given to other members 
-of your society with net approval by a large minority (3%) of the society.
+of your society with net approval by a small minority (1%) of the society.
 
 When a member experiences an unexpected burden they request help from their society. 
 Members of the society will then vote to approve or reject the request. If the request 
