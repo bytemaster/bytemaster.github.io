@@ -128,6 +128,14 @@ earn positive PR.  Early on while the society is growing and there are relativel
 will go toward charity.  It is through charitable help that a society can prove its effectiveness at helping others and gain
 new members. Word will quickly spread to anyone suffering from a qualified event that they should attempt to get help.
 
+### Public Identity
+
+Making all society memberships public is bound to be contraversial.  The Blockchain has no direct means of enforcing this particular rule.  Some societies may opt instead to allow registering a membership under a salted hash of an individual's name. In this way the identity (salt + name) only needs to be revealed at the time a claim is filed.  Identity is ultimately a necessary requirement to prevent fraud whereby multiple people share one membership.  
+
+It is my opinion that encouraging public membership in these societies is the best way to ensure that all such societies 
+maintain and encourage the highest moral standards. No society should be attempted (or supported) that encourages harm to
+others.
+
 ## Summary 
 
 This post was a brief introduction into how a MAS could be implemented on a blockchain. In a future post I will go into details
