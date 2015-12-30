@@ -138,6 +138,12 @@ others.
 
 ### Maximum Benefit
 
+Each individual member as a maximum benefit they may receive from the society that is proportional to their Karma.  At any given point in time there is a ratio between karma receiving payouts and karma not receiving payouts.  Generally speaking this ratio should be more than 10:1 or participating in the society does not make finanical sense.   The actual ratio can be
+calculated from real data derivied from the voting habits of the society members and may change slowly over time. Through enforcing this ratio the society can gaurantee a minimum level of fairness. 
+
+It would be unfair if some individuals received significantly more help relative to their contribution than others. Even though there is a maximum benefit, this is not a gauranteed payout. In addition to being approved via karma vote, all donations must be individually allocated and given. The society does not have the power to distribute other members contributions.  This means that even if an event "qualifies" individuals with unallocated contributions may still opt not to fund a given request.  
+
+Ultimately all charity is peer to peer. Funds are not collected into one pot that gets distributed by voting. Voting is merely used to restrict the peer to peer payouts to qualifying causes that support the social contract of the society.
 
 ## Summary 
 
