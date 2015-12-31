@@ -6,7 +6,7 @@ author: "Daniel Larimer"
 ---
 
 I have said many negative things about Ethereum in the past, but today I would like to change that. 
-Due to recent disputes within the BitShares ecosystem I have come to appriciate a certain qualities of
+Due to recent disputes within the BitShares ecosystem I have come to appreciate a certain qualities of
 Ethereum that the BitShares community could learn from.
 
 <!--more-->
@@ -29,7 +29,7 @@ add new features without having to "ask" permission of the stakeholders.  These 
 new smart contract(s) that many people could use and these contracts could charge their users a fee
 for using them. This fee could then be used to buy back an asset created by the smart contract itself.
 
-In other words, Etheruem already incentivises developers with Fee Backed Assets.
+In other words, Ethereum already incentivises developers with Fee Backed Assets.
 
 There are many reasons why Graphene doesn't have a smart contract scripting environment including:
 
