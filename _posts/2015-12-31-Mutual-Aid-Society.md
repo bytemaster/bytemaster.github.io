@@ -31,10 +31,10 @@ Members of the society will then vote to approve or reject the request. If the r
 is approved then individuals with pre-committed funds may choose to give to their cause. 
 The more you give to a society, the more it will give back to you many times over.
 
-## Many Socieities 
+## Many Societies 
 
 A society can be organized around any concept where there are low probability, high cost risks to be mitigated. The
-benefit of joining a society is that you transform uncertanty into certainty by sharing the burden. Collectively a
+benefit of joining a society is that you transform uncertainty into certainty by sharing the burden. Collectively a
 society can carry burdens that would be unbearable by any individual member.  What follows are some examples of 
 societies that could be formed:
 
@@ -56,7 +56,7 @@ The Cannabis Society is dedicated toward helping the victims of war on drugs. Hu
 have been arrested and prosecuted for mere possession of cannabis. While many of these individuals need it for medical 
 reasons, most of the people involved had their lives negatively impacted despite never harming anyone. This society is 
 designed to support those who become the victim of this victimless crime. This society in particular only helps the those
-suffering because of posession or distribution of cannabis which is arguablly less harmful than alcohol or cigarrets.    
+suffering because of possession or distribution of cannabis which is arguably less harmful than alcohol or cigarettes.    
 
 I may not like your society, but I will defend your right to have it. Each and every society is peaceful, non-violent, and 
 serves as an opportunity to help your fellow man in an organized and dependable manner.
@@ -130,7 +130,7 @@ new members. Word will quickly spread to anyone suffering from a qualified event
 
 ### Public Identity
 
-Making all society memberships public is bound to be contraversial.  The Blockchain has no direct means of enforcing this particular rule.  Some societies may opt instead to allow registering a membership under a salted hash of an individual's name. In this way the identity (salt + name) only needs to be revealed at the time a claim is filed.  Identity is ultimately a necessary requirement to prevent fraud whereby multiple people share one membership.  
+Making all society memberships public is bound to be controversial.  The Blockchain has no direct means of enforcing this particular rule.  Some societies may opt instead to allow registering a membership under a salted hash of an individual's name. In this way the identity (salt + name) only needs to be revealed at the time a claim is filed.  Identity is ultimately a necessary requirement to prevent fraud whereby multiple people share one membership.  
 
 It is my opinion that encouraging public membership in these societies is the best way to ensure that all such societies 
 maintain and encourage the highest moral standards. No society should be attempted (or supported) that encourages harm to
@@ -138,10 +138,9 @@ others.
 
 ### Maximum Benefit
 
-Each individual member as a maximum benefit they may receive from the society that is proportional to their Karma.  At any given point in time there is a ratio between karma receiving payouts and karma not receiving payouts.  Generally speaking this ratio should be more than 10:1 or participating in the society does not make finanical sense.   The actual ratio can be
-calculated from real data derivied from the voting habits of the society members and may change slowly over time. Through enforcing this ratio the society can gaurantee a minimum level of fairness. 
+Each individual member as a maximum benefit they may receive from the society that is proportional to their Karma.  At any given point in time there is a ratio between karma receiving payouts and karma not receiving payouts.  Generally speaking this ratio should be more than 10:1 or participating in the society does not make financial sense. The actual ratio can be calculated from real data derived from the voting habits of the society members and may change slowly over time. Through enforcing this ratio the society can guarantee a minimum level of fairness. 
 
-It would be unfair if some individuals received significantly more help relative to their contribution than others. Even though there is a maximum benefit, this is not a gauranteed payout. In addition to being approved via karma vote, all donations must be individually allocated and given. The society does not have the power to distribute other members contributions.  This means that even if an event "qualifies" individuals with unallocated contributions may still opt not to fund a given request.  
+It would be unfair if some individuals received significantly more help relative to their contribution than others. Even though there is a maximum benefit, this is not a guaranteed payout. In addition to being approved via karma vote, all donations must be individually allocated and given. The society does not have the power to distribute other members contributions.  This means that even if an event "qualifies" individuals with unallocated contributions may still opt not to fund a given request.  
 
 Ultimately all charity is peer to peer. Funds are not collected into one pot that gets distributed by voting. Voting is merely used to restrict the peer to peer payouts to qualifying causes that support the social contract of the society.
 
