@@ -13,13 +13,13 @@ Insurance has become the cornerstone of our risk-averse society. You can get ins
 Over time insurance has gone from a fully voluntary system consisting of many different mutual aid societies to one of 
 mandatory participation in many areas. Examples of mandatory insurance include:
 
-Welfare - this insurance program is paid for with our taxes
-Social Security Disability Insurance - this insurance is paid for from payroll taxes
-Social Security - this “non-insurance” covers us in the event we are unable to save or work in our old age
-Car Insurance - this is mandated to register your vehicle
-Unemployment Insurance - your employer is mandated to pay for this, which means it comes out of your salary.
-Health Insurance - with Obamacare everyone is mandated to purchase health insurance or face heavy fines.
-FDIC - this insurance is paid by your bank, which ultimately means depositors earn lower interest and therefore all depositors are paying for this insurance.
+1. Welfare - this insurance program is paid for with our taxes
+2. Social Security Disability Insurance - this insurance is paid for from payroll taxes
+3. Social Security - this “non-insurance” covers us in the event we are unable to save or work in our old age
+4. Car Insurance - this is mandated to register your vehicle
+5. Unemployment Insurance - your employer is mandated to pay for this, which means it comes out of your salary.
+6. Health Insurance - with Obamacare everyone is mandated to purchase health insurance or face heavy fines.
+7. FDIC - this insurance is paid by your bank, which ultimately means depositors earn lower interest and therefore all depositors are paying for this insurance.
 
 Over [$1 trillion dollars ($1,000,000,000,000) per year is spent on private health insurance](http://www.fool.com/investing/general/2015/01/04/heres-what-the-average-american-pays-for-health-in.aspx).  Studies have shown that in this industry alone, [over 30% is spent on administrative overhead](http://www.bloomberg.com/bw/articles/2013-04-10/the-reason-health-care-is-so-expensive-insurance-companies).  The [average profit margin for insurance companies is about 5%](http://www.investopedia.com/ask/answers/052515/what-usual-profit-margin-company-insurance-sector.asp).  All told a US citizen earning the median income with “employer provided” health care and average car insurance is paying almost $15,000 per year in “insurance” premiums.  For many people more money is spent on insurance than on rent and almost everyone pays more for insurance than they do for food!
 
