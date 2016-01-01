@@ -8,7 +8,7 @@ It has long been accepted that blockchain technology is a perfect fit for the *F
 
 <!--more-->
 
-## Insurance f
+## Insurance
 Insurance has become the cornerstone of our risk-averse society. You can get insurance on almost everything. 
 Over time insurance has gone from a fully voluntary system consisting of many different mutual aid societies to one of 
 mandatory participation in many areas. Examples of mandatory insurance include:
