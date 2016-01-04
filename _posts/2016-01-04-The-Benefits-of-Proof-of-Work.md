@@ -34,8 +34,8 @@ Based upon this understanding of work and the value of liquidity we can construc
 
 There are two ways to do proof-of-work with stake: 
 
-Based on how long you held a coin in the past
-Based on how long you promise to hold a coin into the future
+1. Based on how long you held a coin in the past
+2. Based on how long you promise to hold a coin into the future
 
 I will submit for your consideration that what someone did or didn’t do in the past is a risk-free sunk cost similar to renting mining equipment on a day to day basis. On the other hand, promising to hold a coin into the future is a high-risk cost similar to buying mining equipment that takes a year to earn back the initial capital. In terms of security, the future value of a coin is the only thing that matters and this is why option #2 is superior. 
 
