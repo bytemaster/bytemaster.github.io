@@ -15,7 +15,7 @@ What follows is an idea and perspective on proof-of-work and does not constitute
 
 ## Work Defined
 
-If we are going to talk about the benefits of proof-of-work, then it helps to have a useful definition of work. In terms of physics, work is defined as *power* times *time*.  
+If we are going to talk about the benefits of proof-of-work, then it helps to have a useful definition of work. In terms of physics, work is defined as *power*  X  *time*.  
 
         W = Pt
 
@@ -80,7 +80,7 @@ The $1 million dollar a day question is whether or not money spent on proof-of-w
 6. Side Benefits (such as Primecoin)
 
 
-Of these three things, mining is a terribly inefficient/slow way to determine when blocks should be produced and who should produce them. A lot of work is wasted due to a failure to reach consensus on when and who in advance. This leaves only solving the last 4 problems as a means to justify the cost.
+Of these six things, mining is a terribly inefficient/slow way to determine when blocks should be produced and who should produce them. A lot of work is wasted due to a failure to reach consensus on when and who in advance. This leaves only solving the last 4 problems as a means to justify the cost.
 
 The capital commitment that bitcoin mining enforces creates a kind of self-reinforcing lock-in. People commit to the project, invest in equipment and then are forced to market and promote Bitcoin over a long-term basis in order to recover their costs and make a small profit. Distributing the new coins via mining provides an easy way to get new users on board without having to buy in.  Both of these things have non-zero value.
 
