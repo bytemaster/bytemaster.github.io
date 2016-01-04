@@ -72,12 +72,12 @@ By adding stake-commitment based proof-of-work to the mix, the exchange would be
 
 The $1 million dollar a day question is whether or not money spent on proof-of-work is wasteful.  To answer this question requires making a comparison among several alternatives. For the sake of this analysis I am going to assume that there is a fixed cost for the proof-of-work and then look at the value of what is solved. Bitcoin and other similar coins use proof-of-work to solve several different problems at the same time:
 
-Deciding when the next block should be produced 
-Deciding who should produce the next block
-Making it expensive to produce an alternative chain
-Deciding on the best blockchain
-Distribution
-Side Benefits (such as Primecoin)
+1. Deciding when the next block should be produced 
+2. Deciding who should produce the next block
+3. Making it expensive to produce an alternative chain
+4. Deciding on the best blockchain
+5. Distribution
+6. Side Benefits (such as Primecoin)
 
 
 Of these three things, mining is a terribly inefficient/slow way to determine when blocks should be produced and who should produce them. A lot of work is wasted due to a failure to reach consensus on when and who in advance. This leaves only solving the last 4 problems as a means to justify the cost.
