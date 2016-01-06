@@ -43,6 +43,16 @@
       };
     </script>
     <script async type="text/javascript" src="{{ "/assets/js/theme.min.js" | prepend: site.baseurl }}"></script>
-
+    <script>
+      var BTSW = window.BTSW || {};
+      (function () {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = 'https://bitshares.openledger.info/widgets/3/w.js?ref=' + encodeURIComponent(document.referrer);
+        var entry = document.getElementsByTagName('script')[0];
+        entry.parentNode.insertBefore(script, entry);
+      }());
+    </script>
   </body>
 </html>
