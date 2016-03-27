@@ -9,7 +9,7 @@ categories: article
 
 Thousands of startups are entering the cryptocurrency space and attempting to determine how their business model meshes with the numerous edicts handed down to us by unelected bureaucrats at numerous government agencies such as the IRS, FinCEN, and the SEC to list three agencies just in the United States.
 
-The rules are changing as faster than anyone can figure them out. There are 100’s of crypto currency projects out there and few have been fined. A notable exception is Ripple Labs which was fined $700,000 for selling its XRP token without following KYC/AML regulations handed down by FinCEN. XRP was the #2 crypto currency for years until recently displaced by Ethereum.  
+The rules are changing faster than anyone can figure them out. There are 100’s of crypto currency projects out there and few have been fined. A notable exception is Ripple Labs which was fined $700,000 for selling its XRP token without following KYC/AML regulations handed down by FinCEN. XRP was the #2 crypto currency for years until recently displaced by Ethereum.  
 
 I have been attempting to interpret all of these edicts so that I can help others avoid regulatory land mines all around us. One of those land mines is giving legal advice without being a lawyer, so **what follows is just my opinion and should not be construed as legal advice**. Please consult with your own lawyers and draw your own conclusions.
 
