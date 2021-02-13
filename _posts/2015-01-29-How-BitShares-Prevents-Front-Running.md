@@ -19,7 +19,7 @@ On the BitShares block chain orders are grouped into blocks every 10 seconds whi
 
 # Solutions to Front Running 
 
-In our example the average user ended up getting less than they expected and the profits accrued to the advanced user who was able to run a bot or any one that could get their order in first.  Their are many ways people have suggested for solving this, but it all boils down to timing.   Some people suggest “randomizing” the order in which transactions are processed every block.  Others have suggested a two-phase commit and reveal process.   All of these strategies have significant shortcomings.
+In our example the average user ended up getting less than they expected and the profits accrued to the advanced user who was able to run a bot or any one that could get their order in first.  There are many ways people have suggested for solving this, but it all boils down to timing.   Some people suggest “randomizing” the order in which transactions are processed every block.  Others have suggested a two-phase commit and reveal process.   All of these strategies have significant shortcomings.
 
 ## Randomizing Orders 
 
